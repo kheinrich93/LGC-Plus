@@ -10,30 +10,26 @@ Our paper can soon be found in the [ISPRS archives](https://www.isprs.org/public
 This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [cluster system at the Leibniz University of Hannover, Germany](https://www.luis.uni-hannover.de/en/services/computing/scientific-computing/technical-specifications-of-clusters/), using CentOs 7.6. Additionally, for small tests with an Nvidia Geforce 1060 gtx on Windows 10 was used. 
 
 The following data hierarchy is used:
+
 LGC-Plus
 ├── model
-
 ├── results
-
 │   ├── Training
-
 │   ├── Testing
-
 ├── data
-
 │   ├── dataset
-
 |   |   ├──  images
-
 |   |   |   ├──  left
-
 |   |   |   ├──  right
-
 |   |   ├──  disp_gt
-
 |   |   ├──  cost_volumes
-
 |   |   ├──  est_disp
+
+First list item
+     - LGC-Plus
+       - model
+       - results
+     - data
 
 
 ## Training
@@ -41,10 +37,10 @@ Several arguments for training and testing are available.
 
 The _--module_name_ argument depicts the architecture:
   * [CVA](https://www.sciencedirect.com/science/article/abs/pii/S0924271620303026)
-  * [LFN (Late Fusion Network)](http://www.arts-pi.org.tn/rfmi2017/papers/10_CameraReadySubmission_llncs2e%20(3).pdf)
+  * [LFN](http://www.arts-pi.org.tn/rfmi2017/papers/10_CameraReadySubmission_llncs2e%20(3).pdf)
   * [ConfNet](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)
   * LGC
-  * 
+
 General prompt structure:
 ```shell     
 python ./model/Train-module.py --module_name [module] --network_name [name] --epoch 14 --amount_training_data 20 --amount_validation_data 2 --batch_size 128 --data_set KITTI-12
