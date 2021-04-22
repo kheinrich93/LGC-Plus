@@ -11,6 +11,7 @@ This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [clus
 
 The following data hierarchy is used:
 
+```
 LGC-Plus
 ├── model
 ├── results
@@ -24,13 +25,7 @@ LGC-Plus
 |   |   ├──  disp_gt
 |   |   ├──  cost_volumes
 |   |   ├──  est_disp
-
-First list item
-     - LGC-Plus
-       - model
-       - results
-     - data
-
+```
 
 ## Training
 Several arguments for training and testing are available.
