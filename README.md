@@ -1,6 +1,6 @@
 # LGC-Plus
 
-Further development and elaboration on the impact of multi-modality for confidence estimation, inspired Tosi et. al [LGC](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf).
+Further development and elaboration on the impact of multi-modality for confidence estimation, inspired by [LGC](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf).
 
 [Konstantin Heinrich](www.linkedin.com/in/konstantin-heinrich) and [Max Mehltretter](http://mehltretter.net/) 
 
@@ -12,16 +12,27 @@ This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [clus
 The following data hierarchy is used:
 LGC-Plus
 ├── model
+
 ├── results
+
 │   ├── Training
+
 │   ├── Testing
+
 ├── data
+
 │   ├── dataset
+
 |   |   ├──  images
+
 |   |   |   ├──  left
+
 |   |   |   ├──  right
+
 |   |   ├──  disp_gt
+
 |   |   ├──  cost_volumes
+
 |   |   ├──  est_disp
 
 
