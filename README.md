@@ -2,12 +2,12 @@
 
 Further development and elaboration on the impact of multi-modality for confidence estimation, inspired by [LGC](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf).
 
-[Konstantin Heinrich](www.linkedin.com/in/konstantin-heinrich) and [Max Mehltretter](http://mehltretter.net/) 
+Proposed by [Konstantin Heinrich](www.linkedin.com/in/konstantin-heinrich) and [Max Mehltretter](http://mehltretter.net/). 
 
 Our paper can soon be found in the [ISPRS archives](https://www.isprs.org/publications/archives.aspx). 
 
 ## Prerequisites
-This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [cluster system](https://www.luis.uni-hannover.de/en/services/computing/scientific-computing/technical-specifications-of-clusters/) at the Leibniz University of Hannover, Germany, using CentOs 7.6. Additionally, for small tests with an Nvidia Geforce 1060 gtx on Windows 10 was used. 
+This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [cluster system](https://www.luis.uni-hannover.de/en/services/computing/scientific-computing/technical-specifications-of-clusters/) at the Leibniz University of Hannover, Germany, under CentOs 7.6. Additionally, for small tests with an Nvidia Geforce 1060 gtx on Windows 10 was used. 
 
 The following data hierarchy is used:
 
