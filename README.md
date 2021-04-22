@@ -66,7 +66,7 @@ Confidence maps via ConfNet are computed with the following prompt, in this case
 python ./model/Test-module.py --module_name ConfNet --model_dir ConfNet_GITHUB --data_set Middlebury-v3
 ```
 
-For the fusion module confidence maps from the the networks used for training are needed:
+For the fusion module confidence maps from the networks used for training are needed:
 ```shell     
 python ./model/Test-module.py --module_name LGC --LGC_local_input Confmap_CVA --LGC_global_input Confmap_ConfNet --data_set KITTI-15 --image_amount 100
 ```
