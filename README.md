@@ -23,7 +23,7 @@ LGC-Plus
 |   |   |   ├──  left
 |   |   |   ├──  right
 |   |   ├──  disp_gt
-|   |   ├──  cost_volumes
+|   |   ├──  cost_volume
 |   |   ├──  est_disp
 ```
 
