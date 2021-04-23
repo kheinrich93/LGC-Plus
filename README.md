@@ -4,7 +4,7 @@ Further development and elaboration on the impact of multi-modality for confiden
 
 Proposed by [Konstantin Heinrich](www.linkedin.com/in/konstantin-heinrich) and [Max Mehltretter](http://mehltretter.net/). 
 
-Our paper can soon be found in the [ISPRS archives](https://www.isprs.org/publications/archives.aspx). 
+Our paper can soon be found in the [ISPRS archives](https://www.isprs.org/publications/archives.aspx). Please refer to our paper, when using the code.
 
 ## Prerequisites
 This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [cluster system](https://www.luis.uni-hannover.de/en/services/computing/scientific-computing/technical-specifications-of-clusters/) at the Leibniz University of Hannover, Germany, under CentOs 7.6. Additionally, for small tests with an Nvidia Geforce 1060 gtx on Windows 10 was used. 
