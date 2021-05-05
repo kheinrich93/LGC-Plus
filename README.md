@@ -2,7 +2,7 @@
 
 Further development and elaboration on the impact of multi-modality for confidence estimation, inspired by [LGC](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf).
 
-Proposed by [Konstantin Heinrich](www.linkedin.com/in/konstantin-heinrich) and [Max Mehltretter](http://mehltretter.net/). 
+Proposed by [Konstantin Heinrich](http://www.linkedin.com/in/konstantin-heinrich) and [Max Mehltretter](http://mehltretter.net/). 
 
 Our paper can soon be found in the [ISPRS archives](https://www.isprs.org/publications/archives.aspx). Please refer to our paper, when using the code.
 
