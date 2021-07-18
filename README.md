@@ -26,7 +26,7 @@ LGC-Plus
 │   │   │   │   ├── weights.h5
 │   ├── Testing
 │   │   ├── Confmap_'network'
-│   │   │   ├── 'imagetitle'
+│   │   │   ├── _imagetitle_
 │   │   │   │   ├── Confmap_'network'.png
 │   │   │   │   ├── Confmap_'network'.pfm
 ├── data
@@ -40,7 +40,7 @@ LGC-Plus
 
 
 ** -> change foldername accordingly
-'' -> change hyperparam accordingly
+'' -> change hyperparam accordingly 
 ```
 
 ## Training
