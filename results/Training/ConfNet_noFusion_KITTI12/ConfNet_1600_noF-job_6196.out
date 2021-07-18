@@ -1,0 +1,6410 @@
+Requirement already satisfied: pickle5 in /home/nhgnhein/.local/lib/python3.7/site-packages (0.0.11)
+Requirement already satisfied: bitarray in /home/nhgnhein/.local/lib/python3.7/site-packages (1.6.1)
+No tf-images to delete
+Training and validation-dataset built...
+Initialising...
+Start training...
+ConfNet_1600_noF
+Number of training samples: 20
+Number of validation samples: 2
+Epoch 1 of 1600
+Training:    Loss: 0.646   Accuracy: 0.661   
+Validation:  Loss: 1.192   Accuracy: 0.422   
+---
+Epoch 2 of 1600
+Training:    Loss: 0.526   Accuracy: 0.748   
+Validation:  Loss: 0.870   Accuracy: 0.489   
+---
+Epoch 3 of 1600
+Training:    Loss: 0.494   Accuracy: 0.780   
+Validation:  Loss: 0.867   Accuracy: 0.474   
+---
+Epoch 4 of 1600
+Training:    Loss: 0.508   Accuracy: 0.760   
+Validation:  Loss: 0.683   Accuracy: 0.572   
+---
+Epoch 5 of 1600
+Training:    Loss: 0.458   Accuracy: 0.793   
+Validation:  Loss: 0.709   Accuracy: 0.554   
+---
+Epoch 6 of 1600
+Training:    Loss: 0.444   Accuracy: 0.806   
+Validation:  Loss: 0.573   Accuracy: 0.706   
+---
+Epoch 7 of 1600
+Training:    Loss: 0.398   Accuracy: 0.835   
+Validation:  Loss: 0.561   Accuracy: 0.702   
+---
+Epoch 8 of 1600
+Training:    Loss: 0.411   Accuracy: 0.822   
+Validation:  Loss: 0.509   Accuracy: 0.765   
+---
+Epoch 9 of 1600
+Training:    Loss: 0.402   Accuracy: 0.827   
+Validation:  Loss: 0.461   Accuracy: 0.803   
+---
+Epoch 10 of 1600
+Training:    Loss: 0.408   Accuracy: 0.821   
+Validation:  Loss: 0.439   Accuracy: 0.807   
+---
+Epoch 11 of 1600
+Training:    Loss: 0.396   Accuracy: 0.825   
+Validation:  Loss: 0.432   Accuracy: 0.815   
+---
+Epoch 12 of 1600
+Training:    Loss: 0.413   Accuracy: 0.812   
+Validation:  Loss: 0.423   Accuracy: 0.809   
+---
+Epoch 13 of 1600
+Training:    Loss: 0.366   Accuracy: 0.842   
+Validation:  Loss: 0.379   Accuracy: 0.835   
+---
+Epoch 14 of 1600
+Training:    Loss: 0.383   Accuracy: 0.828   
+Validation:  Loss: 0.357   Accuracy: 0.840   
+---
+Epoch 15 of 1600
+Training:    Loss: 0.362   Accuracy: 0.843   
+Validation:  Loss: 0.403   Accuracy: 0.832   
+---
+Epoch 16 of 1600
+Training:    Loss: 0.352   Accuracy: 0.849   
+Validation:  Loss: 0.428   Accuracy: 0.815   
+---
+Epoch 17 of 1600
+Training:    Loss: 0.358   Accuracy: 0.843   
+Validation:  Loss: 0.369   Accuracy: 0.838   
+---
+Epoch 18 of 1600
+Training:    Loss: 0.341   Accuracy: 0.854   
+Validation:  Loss: 0.355   Accuracy: 0.847   
+---
+Epoch 19 of 1600
+Training:    Loss: 0.353   Accuracy: 0.844   
+Validation:  Loss: 0.396   Accuracy: 0.830   
+---
+Epoch 20 of 1600
+Training:    Loss: 0.356   Accuracy: 0.839   
+Validation:  Loss: 0.352   Accuracy: 0.848   
+---
+Epoch 21 of 1600
+Training:    Loss: 0.328   Accuracy: 0.857   
+Validation:  Loss: 0.330   Accuracy: 0.855   
+---
+Epoch 22 of 1600
+Training:    Loss: 0.339   Accuracy: 0.853   
+Validation:  Loss: 0.322   Accuracy: 0.857   
+---
+Epoch 23 of 1600
+Training:    Loss: 0.307   Accuracy: 0.868   
+Validation:  Loss: 0.443   Accuracy: 0.824   
+---
+Epoch 24 of 1600
+Training:    Loss: 0.345   Accuracy: 0.851   
+Validation:  Loss: 0.341   Accuracy: 0.854   
+---
+Epoch 25 of 1600
+Training:    Loss: 0.332   Accuracy: 0.853   
+Validation:  Loss: 0.331   Accuracy: 0.848   
+---
+Epoch 26 of 1600
+Training:    Loss: 0.326   Accuracy: 0.857   
+Validation:  Loss: 0.331   Accuracy: 0.857   
+---
+Epoch 27 of 1600
+Training:    Loss: 0.310   Accuracy: 0.867   
+Validation:  Loss: 0.321   Accuracy: 0.853   
+---
+Epoch 28 of 1600
+Training:    Loss: 0.338   Accuracy: 0.850   
+Validation:  Loss: 0.307   Accuracy: 0.865   
+---
+Epoch 29 of 1600
+Training:    Loss: 0.311   Accuracy: 0.862   
+Validation:  Loss: 0.313   Accuracy: 0.863   
+---
+Epoch 30 of 1600
+Training:    Loss: 0.320   Accuracy: 0.859   
+Validation:  Loss: 0.320   Accuracy: 0.865   
+---
+Epoch 31 of 1600
+Training:    Loss: 0.313   Accuracy: 0.863   
+Validation:  Loss: 0.328   Accuracy: 0.861   
+---
+Epoch 32 of 1600
+Training:    Loss: 0.313   Accuracy: 0.862   
+Validation:  Loss: 0.302   Accuracy: 0.867   
+---
+Epoch 33 of 1600
+Training:    Loss: 0.315   Accuracy: 0.862   
+Validation:  Loss: 0.282   Accuracy: 0.877   
+---
+Epoch 34 of 1600
+Training:    Loss: 0.290   Accuracy: 0.875   
+Validation:  Loss: 0.316   Accuracy: 0.864   
+---
+Epoch 35 of 1600
+Training:    Loss: 0.287   Accuracy: 0.875   
+Validation:  Loss: 0.290   Accuracy: 0.873   
+---
+Epoch 36 of 1600
+Training:    Loss: 0.288   Accuracy: 0.876   
+Validation:  Loss: 0.300   Accuracy: 0.870   
+---
+Epoch 37 of 1600
+Training:    Loss: 0.296   Accuracy: 0.872   
+Validation:  Loss: 0.307   Accuracy: 0.869   
+---
+Epoch 38 of 1600
+Training:    Loss: 0.292   Accuracy: 0.874   
+Validation:  Loss: 0.305   Accuracy: 0.872   
+---
+Epoch 39 of 1600
+Training:    Loss: 0.281   Accuracy: 0.880   
+Validation:  Loss: 0.289   Accuracy: 0.876   
+---
+Epoch 40 of 1600
+Training:    Loss: 0.288   Accuracy: 0.875   
+Validation:  Loss: 0.286   Accuracy: 0.878   
+---
+Epoch 41 of 1600
+Training:    Loss: 0.288   Accuracy: 0.875   
+Validation:  Loss: 0.275   Accuracy: 0.880   
+---
+Epoch 42 of 1600
+Training:    Loss: 0.283   Accuracy: 0.879   
+Validation:  Loss: 0.282   Accuracy: 0.877   
+---
+Epoch 43 of 1600
+Training:    Loss: 0.295   Accuracy: 0.870   
+Validation:  Loss: 0.285   Accuracy: 0.878   
+---
+Epoch 44 of 1600
+Training:    Loss: 0.278   Accuracy: 0.879   
+Validation:  Loss: 0.278   Accuracy: 0.883   
+---
+Epoch 45 of 1600
+Training:    Loss: 0.271   Accuracy: 0.883   
+Validation:  Loss: 0.280   Accuracy: 0.881   
+---
+Epoch 46 of 1600
+Training:    Loss: 0.287   Accuracy: 0.873   
+Validation:  Loss: 0.294   Accuracy: 0.878   
+---
+Epoch 47 of 1600
+Training:    Loss: 0.268   Accuracy: 0.884   
+Validation:  Loss: 0.264   Accuracy: 0.884   
+---
+Epoch 48 of 1600
+Training:    Loss: 0.263   Accuracy: 0.888   
+Validation:  Loss: 0.303   Accuracy: 0.877   
+---
+Epoch 49 of 1600
+Training:    Loss: 0.283   Accuracy: 0.876   
+Validation:  Loss: 0.263   Accuracy: 0.888   
+---
+Epoch 50 of 1600
+Training:    Loss: 0.280   Accuracy: 0.878   
+Validation:  Loss: 0.264   Accuracy: 0.888   
+---
+Epoch 51 of 1600
+Training:    Loss: 0.274   Accuracy: 0.881   
+Validation:  Loss: 0.318   Accuracy: 0.866   
+---
+Epoch 52 of 1600
+Training:    Loss: 0.271   Accuracy: 0.883   
+Validation:  Loss: 0.265   Accuracy: 0.887   
+---
+Epoch 53 of 1600
+Training:    Loss: 0.275   Accuracy: 0.881   
+Validation:  Loss: 0.267   Accuracy: 0.889   
+---
+Epoch 54 of 1600
+Training:    Loss: 0.260   Accuracy: 0.889   
+Validation:  Loss: 0.259   Accuracy: 0.887   
+---
+Epoch 55 of 1600
+Training:    Loss: 0.260   Accuracy: 0.887   
+Validation:  Loss: 0.288   Accuracy: 0.881   
+---
+Epoch 56 of 1600
+Training:    Loss: 0.262   Accuracy: 0.887   
+Validation:  Loss: 0.262   Accuracy: 0.891   
+---
+Epoch 57 of 1600
+Training:    Loss: 0.253   Accuracy: 0.892   
+Validation:  Loss: 0.268   Accuracy: 0.888   
+---
+Epoch 58 of 1600
+Training:    Loss: 0.265   Accuracy: 0.885   
+Validation:  Loss: 0.257   Accuracy: 0.891   
+---
+Epoch 59 of 1600
+Training:    Loss: 0.268   Accuracy: 0.883   
+Validation:  Loss: 0.259   Accuracy: 0.891   
+---
+Epoch 60 of 1600
+Training:    Loss: 0.253   Accuracy: 0.890   
+Validation:  Loss: 0.256   Accuracy: 0.889   
+---
+Epoch 61 of 1600
+Training:    Loss: 0.241   Accuracy: 0.898   
+Validation:  Loss: 0.260   Accuracy: 0.890   
+---
+Epoch 62 of 1600
+Training:    Loss: 0.253   Accuracy: 0.892   
+Validation:  Loss: 0.255   Accuracy: 0.892   
+---
+Epoch 63 of 1600
+Training:    Loss: 0.248   Accuracy: 0.892   
+Validation:  Loss: 0.243   Accuracy: 0.896   
+---
+Epoch 64 of 1600
+Training:    Loss: 0.249   Accuracy: 0.891   
+Validation:  Loss: 0.258   Accuracy: 0.893   
+---
+Epoch 65 of 1600
+Training:    Loss: 0.241   Accuracy: 0.896   
+Validation:  Loss: 0.234   Accuracy: 0.898   
+---
+Epoch 66 of 1600
+Training:    Loss: 0.235   Accuracy: 0.900   
+Validation:  Loss: 0.242   Accuracy: 0.896   
+---
+Epoch 67 of 1600
+Training:    Loss: 0.223   Accuracy: 0.905   
+Validation:  Loss: 0.242   Accuracy: 0.895   
+---
+Epoch 68 of 1600
+Training:    Loss: 0.243   Accuracy: 0.894   
+Validation:  Loss: 0.241   Accuracy: 0.897   
+---
+Epoch 69 of 1600
+Training:    Loss: 0.231   Accuracy: 0.900   
+Validation:  Loss: 0.255   Accuracy: 0.895   
+---
+Epoch 70 of 1600
+Training:    Loss: 0.231   Accuracy: 0.901   
+Validation:  Loss: 0.234   Accuracy: 0.899   
+---
+Epoch 71 of 1600
+Training:    Loss: 0.227   Accuracy: 0.903   
+Validation:  Loss: 0.235   Accuracy: 0.899   
+---
+Epoch 72 of 1600
+Training:    Loss: 0.233   Accuracy: 0.900   
+Validation:  Loss: 0.234   Accuracy: 0.900   
+---
+Epoch 73 of 1600
+Training:    Loss: 0.235   Accuracy: 0.900   
+Validation:  Loss: 0.241   Accuracy: 0.898   
+---
+Epoch 74 of 1600
+Training:    Loss: 0.230   Accuracy: 0.901   
+Validation:  Loss: 0.241   Accuracy: 0.897   
+---
+Epoch 75 of 1600
+Training:    Loss: 0.230   Accuracy: 0.902   
+Validation:  Loss: 0.243   Accuracy: 0.896   
+---
+Epoch 76 of 1600
+Training:    Loss: 0.224   Accuracy: 0.904   
+Validation:  Loss: 0.240   Accuracy: 0.898   
+---
+Epoch 77 of 1600
+Training:    Loss: 0.226   Accuracy: 0.902   
+Validation:  Loss: 0.247   Accuracy: 0.893   
+---
+Epoch 78 of 1600
+Training:    Loss: 0.235   Accuracy: 0.899   
+Validation:  Loss: 0.239   Accuracy: 0.897   
+---
+Epoch 79 of 1600
+Training:    Loss: 0.239   Accuracy: 0.898   
+Validation:  Loss: 0.233   Accuracy: 0.900   
+---
+Epoch 80 of 1600
+Training:    Loss: 0.219   Accuracy: 0.907   
+Validation:  Loss: 0.260   Accuracy: 0.893   
+---
+Epoch 81 of 1600
+Training:    Loss: 0.228   Accuracy: 0.902   
+Validation:  Loss: 0.239   Accuracy: 0.899   
+---
+Epoch 82 of 1600
+Training:    Loss: 0.228   Accuracy: 0.901   
+Validation:  Loss: 0.231   Accuracy: 0.901   
+---
+Epoch 83 of 1600
+Training:    Loss: 0.212   Accuracy: 0.910   
+Validation:  Loss: 0.246   Accuracy: 0.898   
+---
+Epoch 84 of 1600
+Training:    Loss: 0.216   Accuracy: 0.907   
+Validation:  Loss: 0.235   Accuracy: 0.900   
+---
+Epoch 85 of 1600
+Training:    Loss: 0.223   Accuracy: 0.904   
+Validation:  Loss: 0.241   Accuracy: 0.898   
+---
+Epoch 86 of 1600
+Training:    Loss: 0.235   Accuracy: 0.898   
+Validation:  Loss: 0.227   Accuracy: 0.903   
+---
+Epoch 87 of 1600
+Training:    Loss: 0.220   Accuracy: 0.906   
+Validation:  Loss: 0.230   Accuracy: 0.903   
+---
+Epoch 88 of 1600
+Training:    Loss: 0.221   Accuracy: 0.905   
+Validation:  Loss: 0.238   Accuracy: 0.897   
+---
+Epoch 89 of 1600
+Training:    Loss: 0.227   Accuracy: 0.903   
+Validation:  Loss: 0.231   Accuracy: 0.901   
+---
+Epoch 90 of 1600
+Training:    Loss: 0.221   Accuracy: 0.906   
+Validation:  Loss: 0.232   Accuracy: 0.903   
+---
+Epoch 91 of 1600
+Training:    Loss: 0.210   Accuracy: 0.911   
+Validation:  Loss: 0.256   Accuracy: 0.891   
+---
+Epoch 92 of 1600
+Training:    Loss: 0.220   Accuracy: 0.905   
+Validation:  Loss: 0.231   Accuracy: 0.901   
+---
+Epoch 93 of 1600
+Training:    Loss: 0.209   Accuracy: 0.912   
+Validation:  Loss: 0.221   Accuracy: 0.905   
+---
+Epoch 94 of 1600
+Training:    Loss: 0.207   Accuracy: 0.911   
+Validation:  Loss: 0.225   Accuracy: 0.906   
+---
+Epoch 95 of 1600
+Training:    Loss: 0.209   Accuracy: 0.910   
+Validation:  Loss: 0.222   Accuracy: 0.906   
+---
+Epoch 96 of 1600
+Training:    Loss: 0.213   Accuracy: 0.909   
+Validation:  Loss: 0.217   Accuracy: 0.908   
+---
+Epoch 97 of 1600
+Training:    Loss: 0.214   Accuracy: 0.908   
+Validation:  Loss: 0.220   Accuracy: 0.908   
+---
+Epoch 98 of 1600
+Training:    Loss: 0.205   Accuracy: 0.913   
+Validation:  Loss: 0.220   Accuracy: 0.906   
+---
+Epoch 99 of 1600
+Training:    Loss: 0.205   Accuracy: 0.913   
+Validation:  Loss: 0.227   Accuracy: 0.905   
+---
+Epoch 100 of 1600
+Training:    Loss: 0.213   Accuracy: 0.908   
+Validation:  Loss: 0.224   Accuracy: 0.907   
+---
+Epoch 101 of 1600
+Training:    Loss: 0.201   Accuracy: 0.914   
+Validation:  Loss: 0.229   Accuracy: 0.902   
+---
+Epoch 102 of 1600
+Training:    Loss: 0.196   Accuracy: 0.918   
+Validation:  Loss: 0.211   Accuracy: 0.910   
+---
+Epoch 103 of 1600
+Training:    Loss: 0.199   Accuracy: 0.915   
+Validation:  Loss: 0.239   Accuracy: 0.905   
+---
+Epoch 104 of 1600
+Training:    Loss: 0.199   Accuracy: 0.916   
+Validation:  Loss: 0.217   Accuracy: 0.909   
+---
+Epoch 105 of 1600
+Training:    Loss: 0.216   Accuracy: 0.906   
+Validation:  Loss: 0.212   Accuracy: 0.910   
+---
+Epoch 106 of 1600
+Training:    Loss: 0.192   Accuracy: 0.920   
+Validation:  Loss: 0.222   Accuracy: 0.906   
+---
+Epoch 107 of 1600
+Training:    Loss: 0.207   Accuracy: 0.911   
+Validation:  Loss: 0.226   Accuracy: 0.905   
+---
+Epoch 108 of 1600
+Training:    Loss: 0.197   Accuracy: 0.916   
+Validation:  Loss: 0.212   Accuracy: 0.909   
+---
+Epoch 109 of 1600
+Training:    Loss: 0.182   Accuracy: 0.923   
+Validation:  Loss: 0.216   Accuracy: 0.910   
+---
+Epoch 110 of 1600
+Training:    Loss: 0.189   Accuracy: 0.920   
+Validation:  Loss: 0.212   Accuracy: 0.912   
+---
+Epoch 111 of 1600
+Training:    Loss: 0.194   Accuracy: 0.917   
+Validation:  Loss: 0.219   Accuracy: 0.911   
+---
+Epoch 112 of 1600
+Training:    Loss: 0.191   Accuracy: 0.918   
+Validation:  Loss: 0.214   Accuracy: 0.911   
+---
+Epoch 113 of 1600
+Training:    Loss: 0.202   Accuracy: 0.914   
+Validation:  Loss: 0.213   Accuracy: 0.909   
+---
+Epoch 114 of 1600
+Training:    Loss: 0.191   Accuracy: 0.919   
+Validation:  Loss: 0.220   Accuracy: 0.906   
+---
+Epoch 115 of 1600
+Training:    Loss: 0.194   Accuracy: 0.918   
+Validation:  Loss: 0.224   Accuracy: 0.904   
+---
+Epoch 116 of 1600
+Training:    Loss: 0.193   Accuracy: 0.919   
+Validation:  Loss: 0.218   Accuracy: 0.910   
+---
+Epoch 117 of 1600
+Training:    Loss: 0.180   Accuracy: 0.925   
+Validation:  Loss: 0.215   Accuracy: 0.911   
+---
+Epoch 118 of 1600
+Training:    Loss: 0.195   Accuracy: 0.917   
+Validation:  Loss: 0.223   Accuracy: 0.906   
+---
+Epoch 119 of 1600
+Training:    Loss: 0.190   Accuracy: 0.921   
+Validation:  Loss: 0.220   Accuracy: 0.906   
+---
+Epoch 120 of 1600
+Training:    Loss: 0.195   Accuracy: 0.918   
+Validation:  Loss: 0.216   Accuracy: 0.912   
+---
+Epoch 121 of 1600
+Training:    Loss: 0.192   Accuracy: 0.918   
+Validation:  Loss: 0.209   Accuracy: 0.912   
+---
+Epoch 122 of 1600
+Training:    Loss: 0.188   Accuracy: 0.921   
+Validation:  Loss: 0.215   Accuracy: 0.909   
+---
+Epoch 123 of 1600
+Training:    Loss: 0.187   Accuracy: 0.921   
+Validation:  Loss: 0.217   Accuracy: 0.910   
+---
+Epoch 124 of 1600
+Training:    Loss: 0.178   Accuracy: 0.924   
+Validation:  Loss: 0.202   Accuracy: 0.914   
+---
+Epoch 125 of 1600
+Training:    Loss: 0.184   Accuracy: 0.922   
+Validation:  Loss: 0.201   Accuracy: 0.914   
+---
+Epoch 126 of 1600
+Training:    Loss: 0.178   Accuracy: 0.925   
+Validation:  Loss: 0.217   Accuracy: 0.907   
+---
+Epoch 127 of 1600
+Training:    Loss: 0.176   Accuracy: 0.925   
+Validation:  Loss: 0.208   Accuracy: 0.912   
+---
+Epoch 128 of 1600
+Training:    Loss: 0.176   Accuracy: 0.926   
+Validation:  Loss: 0.205   Accuracy: 0.912   
+---
+Epoch 129 of 1600
+Training:    Loss: 0.178   Accuracy: 0.925   
+Validation:  Loss: 0.204   Accuracy: 0.915   
+---
+Epoch 130 of 1600
+Training:    Loss: 0.178   Accuracy: 0.924   
+Validation:  Loss: 0.206   Accuracy: 0.916   
+---
+Epoch 131 of 1600
+Training:    Loss: 0.177   Accuracy: 0.925   
+Validation:  Loss: 0.211   Accuracy: 0.911   
+---
+Epoch 132 of 1600
+Training:    Loss: 0.178   Accuracy: 0.926   
+Validation:  Loss: 0.210   Accuracy: 0.914   
+---
+Epoch 133 of 1600
+Training:    Loss: 0.184   Accuracy: 0.922   
+Validation:  Loss: 0.209   Accuracy: 0.915   
+---
+Epoch 134 of 1600
+Training:    Loss: 0.172   Accuracy: 0.929   
+Validation:  Loss: 0.200   Accuracy: 0.916   
+---
+Epoch 135 of 1600
+Training:    Loss: 0.166   Accuracy: 0.931   
+Validation:  Loss: 0.197   Accuracy: 0.917   
+---
+Epoch 136 of 1600
+Training:    Loss: 0.163   Accuracy: 0.932   
+Validation:  Loss: 0.200   Accuracy: 0.917   
+---
+Epoch 137 of 1600
+Training:    Loss: 0.174   Accuracy: 0.926   
+Validation:  Loss: 0.202   Accuracy: 0.917   
+---
+Epoch 138 of 1600
+Training:    Loss: 0.176   Accuracy: 0.926   
+Validation:  Loss: 0.205   Accuracy: 0.915   
+---
+Epoch 139 of 1600
+Training:    Loss: 0.164   Accuracy: 0.932   
+Validation:  Loss: 0.199   Accuracy: 0.917   
+---
+Epoch 140 of 1600
+Training:    Loss: 0.159   Accuracy: 0.934   
+Validation:  Loss: 0.199   Accuracy: 0.916   
+---
+Epoch 141 of 1600
+Training:    Loss: 0.165   Accuracy: 0.930   
+Validation:  Loss: 0.208   Accuracy: 0.915   
+---
+Epoch 142 of 1600
+Training:    Loss: 0.173   Accuracy: 0.928   
+Validation:  Loss: 0.211   Accuracy: 0.916   
+---
+Epoch 143 of 1600
+Training:    Loss: 0.169   Accuracy: 0.929   
+Validation:  Loss: 0.207   Accuracy: 0.917   
+---
+Epoch 144 of 1600
+Training:    Loss: 0.176   Accuracy: 0.927   
+Validation:  Loss: 0.201   Accuracy: 0.916   
+---
+Epoch 145 of 1600
+Training:    Loss: 0.175   Accuracy: 0.927   
+Validation:  Loss: 0.206   Accuracy: 0.913   
+---
+Epoch 146 of 1600
+Training:    Loss: 0.189   Accuracy: 0.921   
+Validation:  Loss: 0.205   Accuracy: 0.916   
+---
+Epoch 147 of 1600
+Training:    Loss: 0.166   Accuracy: 0.930   
+Validation:  Loss: 0.206   Accuracy: 0.917   
+---
+Epoch 148 of 1600
+Training:    Loss: 0.163   Accuracy: 0.932   
+Validation:  Loss: 0.206   Accuracy: 0.918   
+---
+Epoch 149 of 1600
+Training:    Loss: 0.169   Accuracy: 0.929   
+Validation:  Loss: 0.210   Accuracy: 0.915   
+---
+Epoch 150 of 1600
+Training:    Loss: 0.170   Accuracy: 0.929   
+Validation:  Loss: 0.202   Accuracy: 0.917   
+---
+Epoch 151 of 1600
+Training:    Loss: 0.161   Accuracy: 0.933   
+Validation:  Loss: 0.192   Accuracy: 0.919   
+---
+Epoch 152 of 1600
+Training:    Loss: 0.171   Accuracy: 0.929   
+Validation:  Loss: 0.204   Accuracy: 0.917   
+---
+Epoch 153 of 1600
+Training:    Loss: 0.173   Accuracy: 0.927   
+Validation:  Loss: 0.201   Accuracy: 0.919   
+---
+Epoch 154 of 1600
+Training:    Loss: 0.159   Accuracy: 0.934   
+Validation:  Loss: 0.191   Accuracy: 0.921   
+---
+Epoch 155 of 1600
+Training:    Loss: 0.165   Accuracy: 0.932   
+Validation:  Loss: 0.195   Accuracy: 0.920   
+---
+Epoch 156 of 1600
+Training:    Loss: 0.145   Accuracy: 0.941   
+Validation:  Loss: 0.189   Accuracy: 0.920   
+---
+Epoch 157 of 1600
+Training:    Loss: 0.151   Accuracy: 0.937   
+Validation:  Loss: 0.189   Accuracy: 0.922   
+---
+Epoch 158 of 1600
+Training:    Loss: 0.159   Accuracy: 0.933   
+Validation:  Loss: 0.190   Accuracy: 0.921   
+---
+Epoch 159 of 1600
+Training:    Loss: 0.149   Accuracy: 0.939   
+Validation:  Loss: 0.188   Accuracy: 0.922   
+---
+Epoch 160 of 1600
+Training:    Loss: 0.155   Accuracy: 0.936   
+Validation:  Loss: 0.196   Accuracy: 0.918   
+---
+Epoch 161 of 1600
+Training:    Loss: 0.147   Accuracy: 0.940   
+Validation:  Loss: 0.192   Accuracy: 0.921   
+---
+Epoch 162 of 1600
+Training:    Loss: 0.155   Accuracy: 0.935   
+Validation:  Loss: 0.189   Accuracy: 0.921   
+---
+Epoch 163 of 1600
+Training:    Loss: 0.150   Accuracy: 0.938   
+Validation:  Loss: 0.187   Accuracy: 0.922   
+---
+Epoch 164 of 1600
+Training:    Loss: 0.148   Accuracy: 0.939   
+Validation:  Loss: 0.185   Accuracy: 0.924   
+---
+Epoch 165 of 1600
+Training:    Loss: 0.150   Accuracy: 0.938   
+Validation:  Loss: 0.184   Accuracy: 0.923   
+---
+Epoch 166 of 1600
+Training:    Loss: 0.141   Accuracy: 0.942   
+Validation:  Loss: 0.186   Accuracy: 0.923   
+---
+Epoch 167 of 1600
+Training:    Loss: 0.149   Accuracy: 0.939   
+Validation:  Loss: 0.189   Accuracy: 0.923   
+---
+Epoch 168 of 1600
+Training:    Loss: 0.153   Accuracy: 0.936   
+Validation:  Loss: 0.200   Accuracy: 0.920   
+---
+Epoch 169 of 1600
+Training:    Loss: 0.165   Accuracy: 0.931   
+Validation:  Loss: 0.199   Accuracy: 0.921   
+---
+Epoch 170 of 1600
+Training:    Loss: 0.168   Accuracy: 0.929   
+Validation:  Loss: 0.191   Accuracy: 0.924   
+---
+Epoch 171 of 1600
+Training:    Loss: 0.152   Accuracy: 0.937   
+Validation:  Loss: 0.192   Accuracy: 0.921   
+---
+Epoch 172 of 1600
+Training:    Loss: 0.150   Accuracy: 0.938   
+Validation:  Loss: 0.185   Accuracy: 0.923   
+---
+Epoch 173 of 1600
+Training:    Loss: 0.149   Accuracy: 0.939   
+Validation:  Loss: 0.192   Accuracy: 0.922   
+---
+Epoch 174 of 1600
+Training:    Loss: 0.136   Accuracy: 0.944   
+Validation:  Loss: 0.182   Accuracy: 0.923   
+---
+Epoch 175 of 1600
+Training:    Loss: 0.136   Accuracy: 0.945   
+Validation:  Loss: 0.179   Accuracy: 0.926   
+---
+Epoch 176 of 1600
+Training:    Loss: 0.144   Accuracy: 0.940   
+Validation:  Loss: 0.187   Accuracy: 0.925   
+---
+Epoch 177 of 1600
+Training:    Loss: 0.154   Accuracy: 0.936   
+Validation:  Loss: 0.191   Accuracy: 0.924   
+---
+Epoch 178 of 1600
+Training:    Loss: 0.159   Accuracy: 0.933   
+Validation:  Loss: 0.201   Accuracy: 0.917   
+---
+Epoch 179 of 1600
+Training:    Loss: 0.160   Accuracy: 0.934   
+Validation:  Loss: 0.191   Accuracy: 0.919   
+---
+Epoch 180 of 1600
+Training:    Loss: 0.150   Accuracy: 0.938   
+Validation:  Loss: 0.187   Accuracy: 0.922   
+---
+Epoch 181 of 1600
+Training:    Loss: 0.153   Accuracy: 0.936   
+Validation:  Loss: 0.184   Accuracy: 0.925   
+---
+Epoch 182 of 1600
+Training:    Loss: 0.157   Accuracy: 0.935   
+Validation:  Loss: 0.191   Accuracy: 0.922   
+---
+Epoch 183 of 1600
+Training:    Loss: 0.151   Accuracy: 0.936   
+Validation:  Loss: 0.199   Accuracy: 0.918   
+---
+Epoch 184 of 1600
+Training:    Loss: 0.163   Accuracy: 0.932   
+Validation:  Loss: 0.205   Accuracy: 0.920   
+---
+Epoch 185 of 1600
+Training:    Loss: 0.165   Accuracy: 0.931   
+Validation:  Loss: 0.191   Accuracy: 0.922   
+---
+Epoch 186 of 1600
+Training:    Loss: 0.154   Accuracy: 0.936   
+Validation:  Loss: 0.194   Accuracy: 0.921   
+---
+Epoch 187 of 1600
+Training:    Loss: 0.143   Accuracy: 0.942   
+Validation:  Loss: 0.181   Accuracy: 0.925   
+---
+Epoch 188 of 1600
+Training:    Loss: 0.141   Accuracy: 0.942   
+Validation:  Loss: 0.187   Accuracy: 0.923   
+---
+Epoch 189 of 1600
+Training:    Loss: 0.149   Accuracy: 0.939   
+Validation:  Loss: 0.183   Accuracy: 0.926   
+---
+Epoch 190 of 1600
+Training:    Loss: 0.139   Accuracy: 0.943   
+Validation:  Loss: 0.193   Accuracy: 0.923   
+---
+Epoch 191 of 1600
+Training:    Loss: 0.139   Accuracy: 0.943   
+Validation:  Loss: 0.184   Accuracy: 0.926   
+---
+Epoch 192 of 1600
+Training:    Loss: 0.140   Accuracy: 0.942   
+Validation:  Loss: 0.184   Accuracy: 0.925   
+---
+Epoch 193 of 1600
+Training:    Loss: 0.139   Accuracy: 0.942   
+Validation:  Loss: 0.183   Accuracy: 0.927   
+---
+Epoch 194 of 1600
+Training:    Loss: 0.139   Accuracy: 0.943   
+Validation:  Loss: 0.179   Accuracy: 0.926   
+---
+Epoch 195 of 1600
+Training:    Loss: 0.134   Accuracy: 0.945   
+Validation:  Loss: 0.194   Accuracy: 0.923   
+---
+Epoch 196 of 1600
+Training:    Loss: 0.149   Accuracy: 0.939   
+Validation:  Loss: 0.187   Accuracy: 0.923   
+---
+Epoch 197 of 1600
+Training:    Loss: 0.129   Accuracy: 0.947   
+Validation:  Loss: 0.191   Accuracy: 0.923   
+---
+Epoch 198 of 1600
+Training:    Loss: 0.143   Accuracy: 0.942   
+Validation:  Loss: 0.179   Accuracy: 0.928   
+---
+Epoch 199 of 1600
+Training:    Loss: 0.136   Accuracy: 0.944   
+Validation:  Loss: 0.190   Accuracy: 0.924   
+---
+Epoch 200 of 1600
+Training:    Loss: 0.131   Accuracy: 0.947   
+Validation:  Loss: 0.188   Accuracy: 0.924   
+---
+Epoch 201 of 1600
+Training:    Loss: 0.134   Accuracy: 0.945   
+Validation:  Loss: 0.186   Accuracy: 0.928   
+---
+Epoch 202 of 1600
+Training:    Loss: 0.117   Accuracy: 0.953   
+Validation:  Loss: 0.176   Accuracy: 0.928   
+---
+Epoch 203 of 1600
+Training:    Loss: 0.132   Accuracy: 0.946   
+Validation:  Loss: 0.182   Accuracy: 0.929   
+---
+Epoch 204 of 1600
+Training:    Loss: 0.140   Accuracy: 0.942   
+Validation:  Loss: 0.188   Accuracy: 0.927   
+---
+Epoch 205 of 1600
+Training:    Loss: 0.137   Accuracy: 0.943   
+Validation:  Loss: 0.183   Accuracy: 0.929   
+---
+Epoch 206 of 1600
+Training:    Loss: 0.124   Accuracy: 0.950   
+Validation:  Loss: 0.177   Accuracy: 0.927   
+---
+Epoch 207 of 1600
+Training:    Loss: 0.133   Accuracy: 0.946   
+Validation:  Loss: 0.176   Accuracy: 0.928   
+---
+Epoch 208 of 1600
+Training:    Loss: 0.131   Accuracy: 0.946   
+Validation:  Loss: 0.178   Accuracy: 0.929   
+---
+Epoch 209 of 1600
+Training:    Loss: 0.137   Accuracy: 0.943   
+Validation:  Loss: 0.174   Accuracy: 0.929   
+---
+Epoch 210 of 1600
+Training:    Loss: 0.125   Accuracy: 0.949   
+Validation:  Loss: 0.180   Accuracy: 0.928   
+---
+Epoch 211 of 1600
+Training:    Loss: 0.138   Accuracy: 0.943   
+Validation:  Loss: 0.180   Accuracy: 0.930   
+---
+Epoch 212 of 1600
+Training:    Loss: 0.132   Accuracy: 0.946   
+Validation:  Loss: 0.187   Accuracy: 0.922   
+---
+Epoch 213 of 1600
+Training:    Loss: 0.133   Accuracy: 0.945   
+Validation:  Loss: 0.188   Accuracy: 0.922   
+---
+Epoch 214 of 1600
+Training:    Loss: 0.139   Accuracy: 0.943   
+Validation:  Loss: 0.193   Accuracy: 0.924   
+---
+Epoch 215 of 1600
+Training:    Loss: 0.130   Accuracy: 0.947   
+Validation:  Loss: 0.179   Accuracy: 0.927   
+---
+Epoch 216 of 1600
+Training:    Loss: 0.129   Accuracy: 0.948   
+Validation:  Loss: 0.184   Accuracy: 0.928   
+---
+Epoch 217 of 1600
+Training:    Loss: 0.122   Accuracy: 0.950   
+Validation:  Loss: 0.176   Accuracy: 0.931   
+---
+Epoch 218 of 1600
+Training:    Loss: 0.127   Accuracy: 0.948   
+Validation:  Loss: 0.181   Accuracy: 0.926   
+---
+Epoch 219 of 1600
+Training:    Loss: 0.121   Accuracy: 0.951   
+Validation:  Loss: 0.174   Accuracy: 0.930   
+---
+Epoch 220 of 1600
+Training:    Loss: 0.120   Accuracy: 0.952   
+Validation:  Loss: 0.176   Accuracy: 0.930   
+---
+Epoch 221 of 1600
+Training:    Loss: 0.122   Accuracy: 0.950   
+Validation:  Loss: 0.178   Accuracy: 0.930   
+---
+Epoch 222 of 1600
+Training:    Loss: 0.132   Accuracy: 0.946   
+Validation:  Loss: 0.179   Accuracy: 0.928   
+---
+Epoch 223 of 1600
+Training:    Loss: 0.140   Accuracy: 0.942   
+Validation:  Loss: 0.178   Accuracy: 0.928   
+---
+Epoch 224 of 1600
+Training:    Loss: 0.126   Accuracy: 0.948   
+Validation:  Loss: 0.171   Accuracy: 0.930   
+---
+Epoch 225 of 1600
+Training:    Loss: 0.113   Accuracy: 0.955   
+Validation:  Loss: 0.166   Accuracy: 0.932   
+---
+Epoch 226 of 1600
+Training:    Loss: 0.128   Accuracy: 0.947   
+Validation:  Loss: 0.175   Accuracy: 0.930   
+---
+Epoch 227 of 1600
+Training:    Loss: 0.123   Accuracy: 0.950   
+Validation:  Loss: 0.179   Accuracy: 0.929   
+---
+Epoch 228 of 1600
+Training:    Loss: 0.124   Accuracy: 0.949   
+Validation:  Loss: 0.176   Accuracy: 0.931   
+---
+Epoch 229 of 1600
+Training:    Loss: 0.117   Accuracy: 0.953   
+Validation:  Loss: 0.176   Accuracy: 0.929   
+---
+Epoch 230 of 1600
+Training:    Loss: 0.117   Accuracy: 0.953   
+Validation:  Loss: 0.172   Accuracy: 0.932   
+---
+Epoch 231 of 1600
+Training:    Loss: 0.113   Accuracy: 0.955   
+Validation:  Loss: 0.174   Accuracy: 0.931   
+---
+Epoch 232 of 1600
+Training:    Loss: 0.136   Accuracy: 0.944   
+Validation:  Loss: 0.186   Accuracy: 0.926   
+---
+Epoch 233 of 1600
+Training:    Loss: 0.120   Accuracy: 0.953   
+Validation:  Loss: 0.177   Accuracy: 0.928   
+---
+Epoch 234 of 1600
+Training:    Loss: 0.145   Accuracy: 0.939   
+Validation:  Loss: 0.189   Accuracy: 0.928   
+---
+Epoch 235 of 1600
+Training:    Loss: 0.135   Accuracy: 0.944   
+Validation:  Loss: 0.183   Accuracy: 0.925   
+---
+Epoch 236 of 1600
+Training:    Loss: 0.124   Accuracy: 0.950   
+Validation:  Loss: 0.194   Accuracy: 0.924   
+---
+Epoch 237 of 1600
+Training:    Loss: 0.126   Accuracy: 0.949   
+Validation:  Loss: 0.170   Accuracy: 0.930   
+---
+Epoch 238 of 1600
+Training:    Loss: 0.124   Accuracy: 0.949   
+Validation:  Loss: 0.184   Accuracy: 0.928   
+---
+Epoch 239 of 1600
+Training:    Loss: 0.116   Accuracy: 0.954   
+Validation:  Loss: 0.179   Accuracy: 0.928   
+---
+Epoch 240 of 1600
+Training:    Loss: 0.138   Accuracy: 0.944   
+Validation:  Loss: 0.177   Accuracy: 0.929   
+---
+Epoch 241 of 1600
+Training:    Loss: 0.113   Accuracy: 0.955   
+Validation:  Loss: 0.170   Accuracy: 0.933   
+---
+Epoch 242 of 1600
+Training:    Loss: 0.112   Accuracy: 0.955   
+Validation:  Loss: 0.166   Accuracy: 0.933   
+---
+Epoch 243 of 1600
+Training:    Loss: 0.113   Accuracy: 0.955   
+Validation:  Loss: 0.164   Accuracy: 0.934   
+---
+Epoch 244 of 1600
+Training:    Loss: 0.112   Accuracy: 0.955   
+Validation:  Loss: 0.167   Accuracy: 0.932   
+---
+Epoch 245 of 1600
+Training:    Loss: 0.115   Accuracy: 0.953   
+Validation:  Loss: 0.171   Accuracy: 0.932   
+---
+Epoch 246 of 1600
+Training:    Loss: 0.123   Accuracy: 0.949   
+Validation:  Loss: 0.169   Accuracy: 0.934   
+---
+Epoch 247 of 1600
+Training:    Loss: 0.116   Accuracy: 0.953   
+Validation:  Loss: 0.167   Accuracy: 0.934   
+---
+Epoch 248 of 1600
+Training:    Loss: 0.120   Accuracy: 0.951   
+Validation:  Loss: 0.179   Accuracy: 0.928   
+---
+Epoch 249 of 1600
+Training:    Loss: 0.119   Accuracy: 0.952   
+Validation:  Loss: 0.182   Accuracy: 0.929   
+---
+Epoch 250 of 1600
+Training:    Loss: 0.118   Accuracy: 0.953   
+Validation:  Loss: 0.177   Accuracy: 0.933   
+---
+Epoch 251 of 1600
+Training:    Loss: 0.105   Accuracy: 0.958   
+Validation:  Loss: 0.171   Accuracy: 0.932   
+---
+Epoch 252 of 1600
+Training:    Loss: 0.114   Accuracy: 0.954   
+Validation:  Loss: 0.170   Accuracy: 0.934   
+---
+Epoch 253 of 1600
+Training:    Loss: 0.118   Accuracy: 0.952   
+Validation:  Loss: 0.180   Accuracy: 0.928   
+---
+Epoch 254 of 1600
+Training:    Loss: 0.121   Accuracy: 0.951   
+Validation:  Loss: 0.180   Accuracy: 0.931   
+---
+Epoch 255 of 1600
+Training:    Loss: 0.119   Accuracy: 0.951   
+Validation:  Loss: 0.174   Accuracy: 0.933   
+---
+Epoch 256 of 1600
+Training:    Loss: 0.107   Accuracy: 0.957   
+Validation:  Loss: 0.165   Accuracy: 0.934   
+---
+Epoch 257 of 1600
+Training:    Loss: 0.110   Accuracy: 0.955   
+Validation:  Loss: 0.166   Accuracy: 0.935   
+---
+Epoch 258 of 1600
+Training:    Loss: 0.109   Accuracy: 0.956   
+Validation:  Loss: 0.171   Accuracy: 0.935   
+---
+Epoch 259 of 1600
+Training:    Loss: 0.113   Accuracy: 0.955   
+Validation:  Loss: 0.172   Accuracy: 0.931   
+---
+Epoch 260 of 1600
+Training:    Loss: 0.113   Accuracy: 0.955   
+Validation:  Loss: 0.163   Accuracy: 0.936   
+---
+Epoch 261 of 1600
+Training:    Loss: 0.111   Accuracy: 0.956   
+Validation:  Loss: 0.169   Accuracy: 0.933   
+---
+Epoch 262 of 1600
+Training:    Loss: 0.119   Accuracy: 0.952   
+Validation:  Loss: 0.172   Accuracy: 0.933   
+---
+Epoch 263 of 1600
+Training:    Loss: 0.116   Accuracy: 0.953   
+Validation:  Loss: 0.192   Accuracy: 0.930   
+---
+Epoch 264 of 1600
+Training:    Loss: 0.113   Accuracy: 0.954   
+Validation:  Loss: 0.167   Accuracy: 0.934   
+---
+Epoch 265 of 1600
+Training:    Loss: 0.102   Accuracy: 0.960   
+Validation:  Loss: 0.166   Accuracy: 0.935   
+---
+Epoch 266 of 1600
+Training:    Loss: 0.104   Accuracy: 0.959   
+Validation:  Loss: 0.172   Accuracy: 0.933   
+---
+Epoch 267 of 1600
+Training:    Loss: 0.109   Accuracy: 0.957   
+Validation:  Loss: 0.170   Accuracy: 0.934   
+---
+Epoch 268 of 1600
+Training:    Loss: 0.104   Accuracy: 0.958   
+Validation:  Loss: 0.168   Accuracy: 0.934   
+---
+Epoch 269 of 1600
+Training:    Loss: 0.101   Accuracy: 0.960   
+Validation:  Loss: 0.171   Accuracy: 0.936   
+---
+Epoch 270 of 1600
+Training:    Loss: 0.107   Accuracy: 0.958   
+Validation:  Loss: 0.165   Accuracy: 0.937   
+---
+Epoch 271 of 1600
+Training:    Loss: 0.111   Accuracy: 0.955   
+Validation:  Loss: 0.168   Accuracy: 0.935   
+---
+Epoch 272 of 1600
+Training:    Loss: 0.107   Accuracy: 0.958   
+Validation:  Loss: 0.156   Accuracy: 0.939   
+---
+Epoch 273 of 1600
+Training:    Loss: 0.105   Accuracy: 0.957   
+Validation:  Loss: 0.164   Accuracy: 0.937   
+---
+Epoch 274 of 1600
+Training:    Loss: 0.111   Accuracy: 0.955   
+Validation:  Loss: 0.164   Accuracy: 0.934   
+---
+Epoch 275 of 1600
+Training:    Loss: 0.100   Accuracy: 0.960   
+Validation:  Loss: 0.166   Accuracy: 0.934   
+---
+Epoch 276 of 1600
+Training:    Loss: 0.109   Accuracy: 0.956   
+Validation:  Loss: 0.168   Accuracy: 0.935   
+---
+Epoch 277 of 1600
+Training:    Loss: 0.100   Accuracy: 0.961   
+Validation:  Loss: 0.168   Accuracy: 0.936   
+---
+Epoch 278 of 1600
+Training:    Loss: 0.115   Accuracy: 0.954   
+Validation:  Loss: 0.154   Accuracy: 0.938   
+---
+Epoch 279 of 1600
+Training:    Loss: 0.100   Accuracy: 0.960   
+Validation:  Loss: 0.178   Accuracy: 0.934   
+---
+Epoch 280 of 1600
+Training:    Loss: 0.110   Accuracy: 0.955   
+Validation:  Loss: 0.180   Accuracy: 0.935   
+---
+Epoch 281 of 1600
+Training:    Loss: 0.101   Accuracy: 0.960   
+Validation:  Loss: 0.163   Accuracy: 0.938   
+---
+Epoch 282 of 1600
+Training:    Loss: 0.098   Accuracy: 0.961   
+Validation:  Loss: 0.166   Accuracy: 0.937   
+---
+Epoch 283 of 1600
+Training:    Loss: 0.103   Accuracy: 0.959   
+Validation:  Loss: 0.161   Accuracy: 0.937   
+---
+Epoch 284 of 1600
+Training:    Loss: 0.111   Accuracy: 0.955   
+Validation:  Loss: 0.154   Accuracy: 0.939   
+---
+Epoch 285 of 1600
+Training:    Loss: 0.102   Accuracy: 0.959   
+Validation:  Loss: 0.167   Accuracy: 0.934   
+---
+Epoch 286 of 1600
+Training:    Loss: 0.104   Accuracy: 0.958   
+Validation:  Loss: 0.175   Accuracy: 0.936   
+---
+Epoch 287 of 1600
+Training:    Loss: 0.106   Accuracy: 0.958   
+Validation:  Loss: 0.172   Accuracy: 0.930   
+---
+Epoch 288 of 1600
+Training:    Loss: 0.114   Accuracy: 0.954   
+Validation:  Loss: 0.162   Accuracy: 0.938   
+---
+Epoch 289 of 1600
+Training:    Loss: 0.101   Accuracy: 0.960   
+Validation:  Loss: 0.167   Accuracy: 0.937   
+---
+Epoch 290 of 1600
+Training:    Loss: 0.104   Accuracy: 0.958   
+Validation:  Loss: 0.166   Accuracy: 0.936   
+---
+Epoch 291 of 1600
+Training:    Loss: 0.099   Accuracy: 0.960   
+Validation:  Loss: 0.174   Accuracy: 0.934   
+---
+Epoch 292 of 1600
+Training:    Loss: 0.105   Accuracy: 0.958   
+Validation:  Loss: 0.170   Accuracy: 0.932   
+---
+Epoch 293 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.163   Accuracy: 0.937   
+---
+Epoch 294 of 1600
+Training:    Loss: 0.100   Accuracy: 0.960   
+Validation:  Loss: 0.167   Accuracy: 0.936   
+---
+Epoch 295 of 1600
+Training:    Loss: 0.095   Accuracy: 0.963   
+Validation:  Loss: 0.167   Accuracy: 0.936   
+---
+Epoch 296 of 1600
+Training:    Loss: 0.100   Accuracy: 0.961   
+Validation:  Loss: 0.173   Accuracy: 0.936   
+---
+Epoch 297 of 1600
+Training:    Loss: 0.100   Accuracy: 0.960   
+Validation:  Loss: 0.174   Accuracy: 0.933   
+---
+Epoch 298 of 1600
+Training:    Loss: 0.105   Accuracy: 0.957   
+Validation:  Loss: 0.173   Accuracy: 0.934   
+---
+Epoch 299 of 1600
+Training:    Loss: 0.131   Accuracy: 0.949   
+Validation:  Loss: 0.204   Accuracy: 0.928   
+---
+Epoch 300 of 1600
+Training:    Loss: 0.127   Accuracy: 0.949   
+Validation:  Loss: 0.172   Accuracy: 0.930   
+---
+Epoch 301 of 1600
+Training:    Loss: 0.107   Accuracy: 0.958   
+Validation:  Loss: 0.180   Accuracy: 0.931   
+---
+Epoch 302 of 1600
+Training:    Loss: 0.103   Accuracy: 0.959   
+Validation:  Loss: 0.180   Accuracy: 0.930   
+---
+Epoch 303 of 1600
+Training:    Loss: 0.104   Accuracy: 0.958   
+Validation:  Loss: 0.169   Accuracy: 0.935   
+---
+Epoch 304 of 1600
+Training:    Loss: 0.107   Accuracy: 0.957   
+Validation:  Loss: 0.161   Accuracy: 0.938   
+---
+Epoch 305 of 1600
+Training:    Loss: 0.102   Accuracy: 0.959   
+Validation:  Loss: 0.154   Accuracy: 0.938   
+---
+Epoch 306 of 1600
+Training:    Loss: 0.096   Accuracy: 0.962   
+Validation:  Loss: 0.162   Accuracy: 0.938   
+---
+Epoch 307 of 1600
+Training:    Loss: 0.100   Accuracy: 0.960   
+Validation:  Loss: 0.161   Accuracy: 0.939   
+---
+Epoch 308 of 1600
+Training:    Loss: 0.106   Accuracy: 0.958   
+Validation:  Loss: 0.162   Accuracy: 0.939   
+---
+Epoch 309 of 1600
+Training:    Loss: 0.101   Accuracy: 0.960   
+Validation:  Loss: 0.172   Accuracy: 0.936   
+---
+Epoch 310 of 1600
+Training:    Loss: 0.098   Accuracy: 0.961   
+Validation:  Loss: 0.169   Accuracy: 0.937   
+---
+Epoch 311 of 1600
+Training:    Loss: 0.099   Accuracy: 0.960   
+Validation:  Loss: 0.154   Accuracy: 0.940   
+---
+Epoch 312 of 1600
+Training:    Loss: 0.102   Accuracy: 0.960   
+Validation:  Loss: 0.158   Accuracy: 0.939   
+---
+Epoch 313 of 1600
+Training:    Loss: 0.097   Accuracy: 0.961   
+Validation:  Loss: 0.163   Accuracy: 0.939   
+---
+Epoch 314 of 1600
+Training:    Loss: 0.102   Accuracy: 0.960   
+Validation:  Loss: 0.160   Accuracy: 0.937   
+---
+Epoch 315 of 1600
+Training:    Loss: 0.103   Accuracy: 0.959   
+Validation:  Loss: 0.162   Accuracy: 0.937   
+---
+Epoch 316 of 1600
+Training:    Loss: 0.095   Accuracy: 0.962   
+Validation:  Loss: 0.157   Accuracy: 0.937   
+---
+Epoch 317 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.163   Accuracy: 0.939   
+---
+Epoch 318 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.159   Accuracy: 0.939   
+---
+Epoch 319 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.166   Accuracy: 0.937   
+---
+Epoch 320 of 1600
+Training:    Loss: 0.090   Accuracy: 0.965   
+Validation:  Loss: 0.161   Accuracy: 0.939   
+---
+Epoch 321 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.156   Accuracy: 0.940   
+---
+Epoch 322 of 1600
+Training:    Loss: 0.084   Accuracy: 0.967   
+Validation:  Loss: 0.160   Accuracy: 0.939   
+---
+Epoch 323 of 1600
+Training:    Loss: 0.095   Accuracy: 0.962   
+Validation:  Loss: 0.174   Accuracy: 0.936   
+---
+Epoch 324 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.161   Accuracy: 0.939   
+---
+Epoch 325 of 1600
+Training:    Loss: 0.093   Accuracy: 0.963   
+Validation:  Loss: 0.162   Accuracy: 0.940   
+---
+Epoch 326 of 1600
+Training:    Loss: 0.089   Accuracy: 0.966   
+Validation:  Loss: 0.161   Accuracy: 0.938   
+---
+Epoch 327 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.159   Accuracy: 0.938   
+---
+Epoch 328 of 1600
+Training:    Loss: 0.093   Accuracy: 0.964   
+Validation:  Loss: 0.161   Accuracy: 0.939   
+---
+Epoch 329 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.167   Accuracy: 0.938   
+---
+Epoch 330 of 1600
+Training:    Loss: 0.089   Accuracy: 0.966   
+Validation:  Loss: 0.159   Accuracy: 0.940   
+---
+Epoch 331 of 1600
+Training:    Loss: 0.084   Accuracy: 0.967   
+Validation:  Loss: 0.166   Accuracy: 0.939   
+---
+Epoch 332 of 1600
+Training:    Loss: 0.089   Accuracy: 0.965   
+Validation:  Loss: 0.164   Accuracy: 0.940   
+---
+Epoch 333 of 1600
+Training:    Loss: 0.097   Accuracy: 0.962   
+Validation:  Loss: 0.161   Accuracy: 0.940   
+---
+Epoch 334 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.164   Accuracy: 0.940   
+---
+Epoch 335 of 1600
+Training:    Loss: 0.080   Accuracy: 0.969   
+Validation:  Loss: 0.154   Accuracy: 0.941   
+---
+Epoch 336 of 1600
+Training:    Loss: 0.089   Accuracy: 0.965   
+Validation:  Loss: 0.155   Accuracy: 0.941   
+---
+Epoch 337 of 1600
+Training:    Loss: 0.087   Accuracy: 0.966   
+Validation:  Loss: 0.158   Accuracy: 0.940   
+---
+Epoch 338 of 1600
+Training:    Loss: 0.089   Accuracy: 0.964   
+Validation:  Loss: 0.166   Accuracy: 0.941   
+---
+Epoch 339 of 1600
+Training:    Loss: 0.093   Accuracy: 0.963   
+Validation:  Loss: 0.160   Accuracy: 0.940   
+---
+Epoch 340 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.155   Accuracy: 0.940   
+---
+Epoch 341 of 1600
+Training:    Loss: 0.092   Accuracy: 0.964   
+Validation:  Loss: 0.164   Accuracy: 0.938   
+---
+Epoch 342 of 1600
+Training:    Loss: 0.086   Accuracy: 0.966   
+Validation:  Loss: 0.159   Accuracy: 0.940   
+---
+Epoch 343 of 1600
+Training:    Loss: 0.093   Accuracy: 0.963   
+Validation:  Loss: 0.173   Accuracy: 0.940   
+---
+Epoch 344 of 1600
+Training:    Loss: 0.085   Accuracy: 0.966   
+Validation:  Loss: 0.156   Accuracy: 0.939   
+---
+Epoch 345 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.158   Accuracy: 0.940   
+---
+Epoch 346 of 1600
+Training:    Loss: 0.081   Accuracy: 0.968   
+Validation:  Loss: 0.162   Accuracy: 0.941   
+---
+Epoch 347 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.163   Accuracy: 0.941   
+---
+Epoch 348 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.158   Accuracy: 0.942   
+---
+Epoch 349 of 1600
+Training:    Loss: 0.086   Accuracy: 0.966   
+Validation:  Loss: 0.173   Accuracy: 0.938   
+---
+Epoch 350 of 1600
+Training:    Loss: 0.093   Accuracy: 0.963   
+Validation:  Loss: 0.164   Accuracy: 0.939   
+---
+Epoch 351 of 1600
+Training:    Loss: 0.095   Accuracy: 0.962   
+Validation:  Loss: 0.165   Accuracy: 0.938   
+---
+Epoch 352 of 1600
+Training:    Loss: 0.094   Accuracy: 0.963   
+Validation:  Loss: 0.178   Accuracy: 0.940   
+---
+Epoch 353 of 1600
+Training:    Loss: 0.084   Accuracy: 0.967   
+Validation:  Loss: 0.157   Accuracy: 0.941   
+---
+Epoch 354 of 1600
+Training:    Loss: 0.086   Accuracy: 0.966   
+Validation:  Loss: 0.161   Accuracy: 0.939   
+---
+Epoch 355 of 1600
+Training:    Loss: 0.078   Accuracy: 0.969   
+Validation:  Loss: 0.155   Accuracy: 0.943   
+---
+Epoch 356 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.160   Accuracy: 0.940   
+---
+Epoch 357 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.159   Accuracy: 0.943   
+---
+Epoch 358 of 1600
+Training:    Loss: 0.083   Accuracy: 0.967   
+Validation:  Loss: 0.156   Accuracy: 0.942   
+---
+Epoch 359 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.157   Accuracy: 0.941   
+---
+Epoch 360 of 1600
+Training:    Loss: 0.088   Accuracy: 0.965   
+Validation:  Loss: 0.163   Accuracy: 0.940   
+---
+Epoch 361 of 1600
+Training:    Loss: 0.088   Accuracy: 0.965   
+Validation:  Loss: 0.160   Accuracy: 0.939   
+---
+Epoch 362 of 1600
+Training:    Loss: 0.083   Accuracy: 0.967   
+Validation:  Loss: 0.159   Accuracy: 0.940   
+---
+Epoch 363 of 1600
+Training:    Loss: 0.087   Accuracy: 0.966   
+Validation:  Loss: 0.158   Accuracy: 0.940   
+---
+Epoch 364 of 1600
+Training:    Loss: 0.087   Accuracy: 0.966   
+Validation:  Loss: 0.147   Accuracy: 0.942   
+---
+Epoch 365 of 1600
+Training:    Loss: 0.086   Accuracy: 0.966   
+Validation:  Loss: 0.152   Accuracy: 0.941   
+---
+Epoch 366 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.157   Accuracy: 0.941   
+---
+Epoch 367 of 1600
+Training:    Loss: 0.087   Accuracy: 0.966   
+Validation:  Loss: 0.159   Accuracy: 0.940   
+---
+Epoch 368 of 1600
+Training:    Loss: 0.080   Accuracy: 0.969   
+Validation:  Loss: 0.176   Accuracy: 0.938   
+---
+Epoch 369 of 1600
+Training:    Loss: 0.084   Accuracy: 0.967   
+Validation:  Loss: 0.166   Accuracy: 0.941   
+---
+Epoch 370 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.163   Accuracy: 0.942   
+---
+Epoch 371 of 1600
+Training:    Loss: 0.090   Accuracy: 0.964   
+Validation:  Loss: 0.154   Accuracy: 0.940   
+---
+Epoch 372 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.153   Accuracy: 0.941   
+---
+Epoch 373 of 1600
+Training:    Loss: 0.083   Accuracy: 0.968   
+Validation:  Loss: 0.159   Accuracy: 0.942   
+---
+Epoch 374 of 1600
+Training:    Loss: 0.076   Accuracy: 0.971   
+Validation:  Loss: 0.166   Accuracy: 0.942   
+---
+Epoch 375 of 1600
+Training:    Loss: 0.078   Accuracy: 0.969   
+Validation:  Loss: 0.157   Accuracy: 0.942   
+---
+Epoch 376 of 1600
+Training:    Loss: 0.080   Accuracy: 0.969   
+Validation:  Loss: 0.157   Accuracy: 0.941   
+---
+Epoch 377 of 1600
+Training:    Loss: 0.081   Accuracy: 0.969   
+Validation:  Loss: 0.145   Accuracy: 0.944   
+---
+Epoch 378 of 1600
+Training:    Loss: 0.084   Accuracy: 0.966   
+Validation:  Loss: 0.159   Accuracy: 0.942   
+---
+Epoch 379 of 1600
+Training:    Loss: 0.082   Accuracy: 0.968   
+Validation:  Loss: 0.164   Accuracy: 0.942   
+---
+Epoch 380 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.161   Accuracy: 0.942   
+---
+Epoch 381 of 1600
+Training:    Loss: 0.079   Accuracy: 0.969   
+Validation:  Loss: 0.159   Accuracy: 0.942   
+---
+Epoch 382 of 1600
+Training:    Loss: 0.079   Accuracy: 0.969   
+Validation:  Loss: 0.166   Accuracy: 0.937   
+---
+Epoch 383 of 1600
+Training:    Loss: 0.081   Accuracy: 0.969   
+Validation:  Loss: 0.149   Accuracy: 0.944   
+---
+Epoch 384 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.157   Accuracy: 0.942   
+---
+Epoch 385 of 1600
+Training:    Loss: 0.084   Accuracy: 0.967   
+Validation:  Loss: 0.160   Accuracy: 0.942   
+---
+Epoch 386 of 1600
+Training:    Loss: 0.082   Accuracy: 0.968   
+Validation:  Loss: 0.165   Accuracy: 0.939   
+---
+Epoch 387 of 1600
+Training:    Loss: 0.088   Accuracy: 0.966   
+Validation:  Loss: 0.160   Accuracy: 0.943   
+---
+Epoch 388 of 1600
+Training:    Loss: 0.067   Accuracy: 0.975   
+Validation:  Loss: 0.162   Accuracy: 0.941   
+---
+Epoch 389 of 1600
+Training:    Loss: 0.078   Accuracy: 0.970   
+Validation:  Loss: 0.168   Accuracy: 0.942   
+---
+Epoch 390 of 1600
+Training:    Loss: 0.072   Accuracy: 0.972   
+Validation:  Loss: 0.159   Accuracy: 0.943   
+---
+Epoch 391 of 1600
+Training:    Loss: 0.075   Accuracy: 0.972   
+Validation:  Loss: 0.165   Accuracy: 0.942   
+---
+Epoch 392 of 1600
+Training:    Loss: 0.082   Accuracy: 0.968   
+Validation:  Loss: 0.161   Accuracy: 0.942   
+---
+Epoch 393 of 1600
+Training:    Loss: 0.073   Accuracy: 0.972   
+Validation:  Loss: 0.157   Accuracy: 0.942   
+---
+Epoch 394 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.150   Accuracy: 0.943   
+---
+Epoch 395 of 1600
+Training:    Loss: 0.072   Accuracy: 0.972   
+Validation:  Loss: 0.141   Accuracy: 0.946   
+---
+Epoch 396 of 1600
+Training:    Loss: 0.083   Accuracy: 0.967   
+Validation:  Loss: 0.153   Accuracy: 0.943   
+---
+Epoch 397 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.154   Accuracy: 0.943   
+---
+Epoch 398 of 1600
+Training:    Loss: 0.083   Accuracy: 0.967   
+Validation:  Loss: 0.149   Accuracy: 0.945   
+---
+Epoch 399 of 1600
+Training:    Loss: 0.072   Accuracy: 0.973   
+Validation:  Loss: 0.155   Accuracy: 0.945   
+---
+Epoch 400 of 1600
+Training:    Loss: 0.081   Accuracy: 0.968   
+Validation:  Loss: 0.148   Accuracy: 0.943   
+---
+Epoch 401 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.161   Accuracy: 0.943   
+---
+Epoch 402 of 1600
+Training:    Loss: 0.080   Accuracy: 0.969   
+Validation:  Loss: 0.171   Accuracy: 0.941   
+---
+Epoch 403 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.158   Accuracy: 0.940   
+---
+Epoch 404 of 1600
+Training:    Loss: 0.073   Accuracy: 0.972   
+Validation:  Loss: 0.151   Accuracy: 0.943   
+---
+Epoch 405 of 1600
+Training:    Loss: 0.078   Accuracy: 0.970   
+Validation:  Loss: 0.146   Accuracy: 0.945   
+---
+Epoch 406 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.158   Accuracy: 0.943   
+---
+Epoch 407 of 1600
+Training:    Loss: 0.069   Accuracy: 0.974   
+Validation:  Loss: 0.159   Accuracy: 0.944   
+---
+Epoch 408 of 1600
+Training:    Loss: 0.069   Accuracy: 0.974   
+Validation:  Loss: 0.162   Accuracy: 0.942   
+---
+Epoch 409 of 1600
+Training:    Loss: 0.073   Accuracy: 0.972   
+Validation:  Loss: 0.157   Accuracy: 0.943   
+---
+Epoch 410 of 1600
+Training:    Loss: 0.085   Accuracy: 0.967   
+Validation:  Loss: 0.156   Accuracy: 0.944   
+---
+Epoch 411 of 1600
+Training:    Loss: 0.082   Accuracy: 0.969   
+Validation:  Loss: 0.151   Accuracy: 0.943   
+---
+Epoch 412 of 1600
+Training:    Loss: 0.084   Accuracy: 0.967   
+Validation:  Loss: 0.151   Accuracy: 0.943   
+---
+Epoch 413 of 1600
+Training:    Loss: 0.084   Accuracy: 0.968   
+Validation:  Loss: 0.158   Accuracy: 0.943   
+---
+Epoch 414 of 1600
+Training:    Loss: 0.070   Accuracy: 0.974   
+Validation:  Loss: 0.158   Accuracy: 0.942   
+---
+Epoch 415 of 1600
+Training:    Loss: 0.076   Accuracy: 0.971   
+Validation:  Loss: 0.160   Accuracy: 0.944   
+---
+Epoch 416 of 1600
+Training:    Loss: 0.078   Accuracy: 0.970   
+Validation:  Loss: 0.154   Accuracy: 0.944   
+---
+Epoch 417 of 1600
+Training:    Loss: 0.086   Accuracy: 0.966   
+Validation:  Loss: 0.165   Accuracy: 0.944   
+---
+Epoch 418 of 1600
+Training:    Loss: 0.079   Accuracy: 0.969   
+Validation:  Loss: 0.150   Accuracy: 0.946   
+---
+Epoch 419 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.155   Accuracy: 0.944   
+---
+Epoch 420 of 1600
+Training:    Loss: 0.068   Accuracy: 0.974   
+Validation:  Loss: 0.159   Accuracy: 0.944   
+---
+Epoch 421 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.155   Accuracy: 0.945   
+---
+Epoch 422 of 1600
+Training:    Loss: 0.070   Accuracy: 0.974   
+Validation:  Loss: 0.156   Accuracy: 0.945   
+---
+Epoch 423 of 1600
+Training:    Loss: 0.079   Accuracy: 0.969   
+Validation:  Loss: 0.147   Accuracy: 0.946   
+---
+Epoch 424 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.152   Accuracy: 0.946   
+---
+Epoch 425 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.152   Accuracy: 0.945   
+---
+Epoch 426 of 1600
+Training:    Loss: 0.069   Accuracy: 0.973   
+Validation:  Loss: 0.161   Accuracy: 0.944   
+---
+Epoch 427 of 1600
+Training:    Loss: 0.073   Accuracy: 0.972   
+Validation:  Loss: 0.152   Accuracy: 0.944   
+---
+Epoch 428 of 1600
+Training:    Loss: 0.068   Accuracy: 0.974   
+Validation:  Loss: 0.159   Accuracy: 0.943   
+---
+Epoch 429 of 1600
+Training:    Loss: 0.070   Accuracy: 0.973   
+Validation:  Loss: 0.157   Accuracy: 0.944   
+---
+Epoch 430 of 1600
+Training:    Loss: 0.073   Accuracy: 0.972   
+Validation:  Loss: 0.144   Accuracy: 0.945   
+---
+Epoch 431 of 1600
+Training:    Loss: 0.065   Accuracy: 0.976   
+Validation:  Loss: 0.154   Accuracy: 0.945   
+---
+Epoch 432 of 1600
+Training:    Loss: 0.077   Accuracy: 0.969   
+Validation:  Loss: 0.146   Accuracy: 0.947   
+---
+Epoch 433 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.156   Accuracy: 0.944   
+---
+Epoch 434 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.159   Accuracy: 0.943   
+---
+Epoch 435 of 1600
+Training:    Loss: 0.074   Accuracy: 0.972   
+Validation:  Loss: 0.154   Accuracy: 0.946   
+---
+Epoch 436 of 1600
+Training:    Loss: 0.074   Accuracy: 0.971   
+Validation:  Loss: 0.163   Accuracy: 0.945   
+---
+Epoch 437 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.157   Accuracy: 0.945   
+---
+Epoch 438 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.156   Accuracy: 0.945   
+---
+Epoch 439 of 1600
+Training:    Loss: 0.062   Accuracy: 0.976   
+Validation:  Loss: 0.164   Accuracy: 0.943   
+---
+Epoch 440 of 1600
+Training:    Loss: 0.068   Accuracy: 0.974   
+Validation:  Loss: 0.158   Accuracy: 0.945   
+---
+Epoch 441 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.153   Accuracy: 0.946   
+---
+Epoch 442 of 1600
+Training:    Loss: 0.069   Accuracy: 0.974   
+Validation:  Loss: 0.157   Accuracy: 0.946   
+---
+Epoch 443 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.152   Accuracy: 0.946   
+---
+Epoch 444 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.157   Accuracy: 0.946   
+---
+Epoch 445 of 1600
+Training:    Loss: 0.069   Accuracy: 0.973   
+Validation:  Loss: 0.164   Accuracy: 0.944   
+---
+Epoch 446 of 1600
+Training:    Loss: 0.082   Accuracy: 0.968   
+Validation:  Loss: 0.156   Accuracy: 0.945   
+---
+Epoch 447 of 1600
+Training:    Loss: 0.076   Accuracy: 0.971   
+Validation:  Loss: 0.166   Accuracy: 0.942   
+---
+Epoch 448 of 1600
+Training:    Loss: 0.079   Accuracy: 0.969   
+Validation:  Loss: 0.155   Accuracy: 0.943   
+---
+Epoch 449 of 1600
+Training:    Loss: 0.076   Accuracy: 0.971   
+Validation:  Loss: 0.152   Accuracy: 0.945   
+---
+Epoch 450 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.152   Accuracy: 0.945   
+---
+Epoch 451 of 1600
+Training:    Loss: 0.072   Accuracy: 0.972   
+Validation:  Loss: 0.148   Accuracy: 0.946   
+---
+Epoch 452 of 1600
+Training:    Loss: 0.068   Accuracy: 0.974   
+Validation:  Loss: 0.149   Accuracy: 0.946   
+---
+Epoch 453 of 1600
+Training:    Loss: 0.068   Accuracy: 0.974   
+Validation:  Loss: 0.156   Accuracy: 0.946   
+---
+Epoch 454 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.153   Accuracy: 0.946   
+---
+Epoch 455 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.157   Accuracy: 0.945   
+---
+Epoch 456 of 1600
+Training:    Loss: 0.073   Accuracy: 0.972   
+Validation:  Loss: 0.151   Accuracy: 0.947   
+---
+Epoch 457 of 1600
+Training:    Loss: 0.068   Accuracy: 0.974   
+Validation:  Loss: 0.153   Accuracy: 0.944   
+---
+Epoch 458 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.160   Accuracy: 0.945   
+---
+Epoch 459 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.147   Accuracy: 0.946   
+---
+Epoch 460 of 1600
+Training:    Loss: 0.070   Accuracy: 0.973   
+Validation:  Loss: 0.158   Accuracy: 0.946   
+---
+Epoch 461 of 1600
+Training:    Loss: 0.069   Accuracy: 0.973   
+Validation:  Loss: 0.155   Accuracy: 0.947   
+---
+Epoch 462 of 1600
+Training:    Loss: 0.078   Accuracy: 0.970   
+Validation:  Loss: 0.163   Accuracy: 0.945   
+---
+Epoch 463 of 1600
+Training:    Loss: 0.069   Accuracy: 0.973   
+Validation:  Loss: 0.153   Accuracy: 0.945   
+---
+Epoch 464 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.157   Accuracy: 0.946   
+---
+Epoch 465 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.141   Accuracy: 0.948   
+---
+Epoch 466 of 1600
+Training:    Loss: 0.062   Accuracy: 0.976   
+Validation:  Loss: 0.147   Accuracy: 0.947   
+---
+Epoch 467 of 1600
+Training:    Loss: 0.067   Accuracy: 0.974   
+Validation:  Loss: 0.154   Accuracy: 0.945   
+---
+Epoch 468 of 1600
+Training:    Loss: 0.070   Accuracy: 0.973   
+Validation:  Loss: 0.149   Accuracy: 0.945   
+---
+Epoch 469 of 1600
+Training:    Loss: 0.074   Accuracy: 0.971   
+Validation:  Loss: 0.164   Accuracy: 0.944   
+---
+Epoch 470 of 1600
+Training:    Loss: 0.077   Accuracy: 0.970   
+Validation:  Loss: 0.145   Accuracy: 0.947   
+---
+Epoch 471 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.143   Accuracy: 0.947   
+---
+Epoch 472 of 1600
+Training:    Loss: 0.067   Accuracy: 0.974   
+Validation:  Loss: 0.146   Accuracy: 0.948   
+---
+Epoch 473 of 1600
+Training:    Loss: 0.064   Accuracy: 0.976   
+Validation:  Loss: 0.152   Accuracy: 0.946   
+---
+Epoch 474 of 1600
+Training:    Loss: 0.066   Accuracy: 0.974   
+Validation:  Loss: 0.154   Accuracy: 0.946   
+---
+Epoch 475 of 1600
+Training:    Loss: 0.067   Accuracy: 0.974   
+Validation:  Loss: 0.165   Accuracy: 0.943   
+---
+Epoch 476 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.150   Accuracy: 0.947   
+---
+Epoch 477 of 1600
+Training:    Loss: 0.062   Accuracy: 0.976   
+Validation:  Loss: 0.149   Accuracy: 0.947   
+---
+Epoch 478 of 1600
+Training:    Loss: 0.067   Accuracy: 0.974   
+Validation:  Loss: 0.158   Accuracy: 0.945   
+---
+Epoch 479 of 1600
+Training:    Loss: 0.067   Accuracy: 0.974   
+Validation:  Loss: 0.162   Accuracy: 0.945   
+---
+Epoch 480 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.156   Accuracy: 0.946   
+---
+Epoch 481 of 1600
+Training:    Loss: 0.067   Accuracy: 0.974   
+Validation:  Loss: 0.144   Accuracy: 0.947   
+---
+Epoch 482 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.177   Accuracy: 0.943   
+---
+Epoch 483 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.164   Accuracy: 0.944   
+---
+Epoch 484 of 1600
+Training:    Loss: 0.069   Accuracy: 0.975   
+Validation:  Loss: 0.172   Accuracy: 0.945   
+---
+Epoch 485 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.150   Accuracy: 0.946   
+---
+Epoch 486 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.150   Accuracy: 0.947   
+---
+Epoch 487 of 1600
+Training:    Loss: 0.057   Accuracy: 0.979   
+Validation:  Loss: 0.147   Accuracy: 0.947   
+---
+Epoch 488 of 1600
+Training:    Loss: 0.060   Accuracy: 0.977   
+Validation:  Loss: 0.152   Accuracy: 0.947   
+---
+Epoch 489 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.150   Accuracy: 0.946   
+---
+Epoch 490 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.147   Accuracy: 0.947   
+---
+Epoch 491 of 1600
+Training:    Loss: 0.062   Accuracy: 0.977   
+Validation:  Loss: 0.150   Accuracy: 0.948   
+---
+Epoch 492 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.144   Accuracy: 0.947   
+---
+Epoch 493 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.150   Accuracy: 0.946   
+---
+Epoch 494 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.144   Accuracy: 0.949   
+---
+Epoch 495 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.158   Accuracy: 0.945   
+---
+Epoch 496 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.150   Accuracy: 0.945   
+---
+Epoch 497 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.149   Accuracy: 0.948   
+---
+Epoch 498 of 1600
+Training:    Loss: 0.069   Accuracy: 0.973   
+Validation:  Loss: 0.152   Accuracy: 0.948   
+---
+Epoch 499 of 1600
+Training:    Loss: 0.067   Accuracy: 0.975   
+Validation:  Loss: 0.153   Accuracy: 0.947   
+---
+Epoch 500 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.160   Accuracy: 0.943   
+---
+Epoch 501 of 1600
+Training:    Loss: 0.070   Accuracy: 0.973   
+Validation:  Loss: 0.148   Accuracy: 0.946   
+---
+Epoch 502 of 1600
+Training:    Loss: 0.076   Accuracy: 0.971   
+Validation:  Loss: 0.170   Accuracy: 0.943   
+---
+Epoch 503 of 1600
+Training:    Loss: 0.075   Accuracy: 0.971   
+Validation:  Loss: 0.153   Accuracy: 0.945   
+---
+Epoch 504 of 1600
+Training:    Loss: 0.074   Accuracy: 0.971   
+Validation:  Loss: 0.148   Accuracy: 0.947   
+---
+Epoch 505 of 1600
+Training:    Loss: 0.060   Accuracy: 0.977   
+Validation:  Loss: 0.152   Accuracy: 0.948   
+---
+Epoch 506 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.152   Accuracy: 0.949   
+---
+Epoch 507 of 1600
+Training:    Loss: 0.059   Accuracy: 0.977   
+Validation:  Loss: 0.145   Accuracy: 0.948   
+---
+Epoch 508 of 1600
+Training:    Loss: 0.062   Accuracy: 0.976   
+Validation:  Loss: 0.145   Accuracy: 0.949   
+---
+Epoch 509 of 1600
+Training:    Loss: 0.057   Accuracy: 0.979   
+Validation:  Loss: 0.145   Accuracy: 0.949   
+---
+Epoch 510 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.151   Accuracy: 0.947   
+---
+Epoch 511 of 1600
+Training:    Loss: 0.060   Accuracy: 0.978   
+Validation:  Loss: 0.147   Accuracy: 0.946   
+---
+Epoch 512 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.149   Accuracy: 0.948   
+---
+Epoch 513 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.149   Accuracy: 0.949   
+---
+Epoch 514 of 1600
+Training:    Loss: 0.059   Accuracy: 0.977   
+Validation:  Loss: 0.171   Accuracy: 0.947   
+---
+Epoch 515 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.154   Accuracy: 0.947   
+---
+Epoch 516 of 1600
+Training:    Loss: 0.060   Accuracy: 0.978   
+Validation:  Loss: 0.158   Accuracy: 0.946   
+---
+Epoch 517 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.141   Accuracy: 0.949   
+---
+Epoch 518 of 1600
+Training:    Loss: 0.064   Accuracy: 0.976   
+Validation:  Loss: 0.152   Accuracy: 0.948   
+---
+Epoch 519 of 1600
+Training:    Loss: 0.055   Accuracy: 0.980   
+Validation:  Loss: 0.148   Accuracy: 0.949   
+---
+Epoch 520 of 1600
+Training:    Loss: 0.062   Accuracy: 0.977   
+Validation:  Loss: 0.151   Accuracy: 0.948   
+---
+Epoch 521 of 1600
+Training:    Loss: 0.057   Accuracy: 0.979   
+Validation:  Loss: 0.155   Accuracy: 0.948   
+---
+Epoch 522 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.156   Accuracy: 0.947   
+---
+Epoch 523 of 1600
+Training:    Loss: 0.057   Accuracy: 0.978   
+Validation:  Loss: 0.151   Accuracy: 0.948   
+---
+Epoch 524 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.148   Accuracy: 0.949   
+---
+Epoch 525 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.152   Accuracy: 0.947   
+---
+Epoch 526 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.156   Accuracy: 0.943   
+---
+Epoch 527 of 1600
+Training:    Loss: 0.062   Accuracy: 0.977   
+Validation:  Loss: 0.160   Accuracy: 0.947   
+---
+Epoch 528 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.160   Accuracy: 0.944   
+---
+Epoch 529 of 1600
+Training:    Loss: 0.075   Accuracy: 0.972   
+Validation:  Loss: 0.173   Accuracy: 0.944   
+---
+Epoch 530 of 1600
+Training:    Loss: 0.066   Accuracy: 0.975   
+Validation:  Loss: 0.151   Accuracy: 0.945   
+---
+Epoch 531 of 1600
+Training:    Loss: 0.070   Accuracy: 0.973   
+Validation:  Loss: 0.162   Accuracy: 0.946   
+---
+Epoch 532 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.146   Accuracy: 0.949   
+---
+Epoch 533 of 1600
+Training:    Loss: 0.057   Accuracy: 0.978   
+Validation:  Loss: 0.149   Accuracy: 0.948   
+---
+Epoch 534 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.158   Accuracy: 0.947   
+---
+Epoch 535 of 1600
+Training:    Loss: 0.053   Accuracy: 0.980   
+Validation:  Loss: 0.154   Accuracy: 0.949   
+---
+Epoch 536 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.147   Accuracy: 0.949   
+---
+Epoch 537 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.144   Accuracy: 0.950   
+---
+Epoch 538 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.152   Accuracy: 0.949   
+---
+Epoch 539 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.156   Accuracy: 0.948   
+---
+Epoch 540 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.148   Accuracy: 0.948   
+---
+Epoch 541 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.150   Accuracy: 0.949   
+---
+Epoch 542 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.152   Accuracy: 0.948   
+---
+Epoch 543 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.143   Accuracy: 0.949   
+---
+Epoch 544 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.155   Accuracy: 0.949   
+---
+Epoch 545 of 1600
+Training:    Loss: 0.064   Accuracy: 0.976   
+Validation:  Loss: 0.153   Accuracy: 0.948   
+---
+Epoch 546 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.154   Accuracy: 0.949   
+---
+Epoch 547 of 1600
+Training:    Loss: 0.059   Accuracy: 0.977   
+Validation:  Loss: 0.157   Accuracy: 0.949   
+---
+Epoch 548 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.141   Accuracy: 0.950   
+---
+Epoch 549 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.144   Accuracy: 0.950   
+---
+Epoch 550 of 1600
+Training:    Loss: 0.057   Accuracy: 0.978   
+Validation:  Loss: 0.148   Accuracy: 0.949   
+---
+Epoch 551 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.144   Accuracy: 0.950   
+---
+Epoch 552 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.157   Accuracy: 0.947   
+---
+Epoch 553 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.153   Accuracy: 0.948   
+---
+Epoch 554 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.153   Accuracy: 0.948   
+---
+Epoch 555 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.149   Accuracy: 0.948   
+---
+Epoch 556 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.149   Accuracy: 0.948   
+---
+Epoch 557 of 1600
+Training:    Loss: 0.065   Accuracy: 0.975   
+Validation:  Loss: 0.141   Accuracy: 0.949   
+---
+Epoch 558 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.159   Accuracy: 0.947   
+---
+Epoch 559 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.162   Accuracy: 0.948   
+---
+Epoch 560 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.158   Accuracy: 0.947   
+---
+Epoch 561 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.149   Accuracy: 0.947   
+---
+Epoch 562 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.141   Accuracy: 0.949   
+---
+Epoch 563 of 1600
+Training:    Loss: 0.057   Accuracy: 0.979   
+Validation:  Loss: 0.157   Accuracy: 0.949   
+---
+Epoch 564 of 1600
+Training:    Loss: 0.071   Accuracy: 0.973   
+Validation:  Loss: 0.175   Accuracy: 0.945   
+---
+Epoch 565 of 1600
+Training:    Loss: 0.062   Accuracy: 0.976   
+Validation:  Loss: 0.156   Accuracy: 0.947   
+---
+Epoch 566 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.142   Accuracy: 0.951   
+---
+Epoch 567 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.153   Accuracy: 0.949   
+---
+Epoch 568 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.145   Accuracy: 0.950   
+---
+Epoch 569 of 1600
+Training:    Loss: 0.057   Accuracy: 0.979   
+Validation:  Loss: 0.160   Accuracy: 0.948   
+---
+Epoch 570 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.154   Accuracy: 0.949   
+---
+Epoch 571 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.152   Accuracy: 0.950   
+---
+Epoch 572 of 1600
+Training:    Loss: 0.061   Accuracy: 0.977   
+Validation:  Loss: 0.155   Accuracy: 0.948   
+---
+Epoch 573 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.158   Accuracy: 0.948   
+---
+Epoch 574 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.142   Accuracy: 0.949   
+---
+Epoch 575 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.140   Accuracy: 0.950   
+---
+Epoch 576 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.149   Accuracy: 0.949   
+---
+Epoch 577 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.156   Accuracy: 0.949   
+---
+Epoch 578 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.147   Accuracy: 0.950   
+---
+Epoch 579 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.159   Accuracy: 0.950   
+---
+Epoch 580 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.153   Accuracy: 0.947   
+---
+Epoch 581 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.151   Accuracy: 0.949   
+---
+Epoch 582 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.152   Accuracy: 0.949   
+---
+Epoch 583 of 1600
+Training:    Loss: 0.048   Accuracy: 0.982   
+Validation:  Loss: 0.150   Accuracy: 0.950   
+---
+Epoch 584 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.155   Accuracy: 0.949   
+---
+Epoch 585 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.158   Accuracy: 0.949   
+---
+Epoch 586 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.149   Accuracy: 0.951   
+---
+Epoch 587 of 1600
+Training:    Loss: 0.047   Accuracy: 0.982   
+Validation:  Loss: 0.149   Accuracy: 0.949   
+---
+Epoch 588 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.148   Accuracy: 0.951   
+---
+Epoch 589 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.160   Accuracy: 0.947   
+---
+Epoch 590 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.172   Accuracy: 0.947   
+---
+Epoch 591 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.155   Accuracy: 0.950   
+---
+Epoch 592 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.144   Accuracy: 0.950   
+---
+Epoch 593 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.161   Accuracy: 0.947   
+---
+Epoch 594 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.174   Accuracy: 0.946   
+---
+Epoch 595 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.154   Accuracy: 0.951   
+---
+Epoch 596 of 1600
+Training:    Loss: 0.063   Accuracy: 0.976   
+Validation:  Loss: 0.180   Accuracy: 0.944   
+---
+Epoch 597 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.154   Accuracy: 0.948   
+---
+Epoch 598 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.161   Accuracy: 0.948   
+---
+Epoch 599 of 1600
+Training:    Loss: 0.054   Accuracy: 0.979   
+Validation:  Loss: 0.168   Accuracy: 0.948   
+---
+Epoch 600 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.157   Accuracy: 0.950   
+---
+Epoch 601 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.154   Accuracy: 0.947   
+---
+Epoch 602 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.140   Accuracy: 0.951   
+---
+Epoch 603 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.161   Accuracy: 0.948   
+---
+Epoch 604 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.153   Accuracy: 0.949   
+---
+Epoch 605 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.153   Accuracy: 0.950   
+---
+Epoch 606 of 1600
+Training:    Loss: 0.053   Accuracy: 0.980   
+Validation:  Loss: 0.158   Accuracy: 0.950   
+---
+Epoch 607 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.157   Accuracy: 0.949   
+---
+Epoch 608 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.153   Accuracy: 0.949   
+---
+Epoch 609 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.158   Accuracy: 0.949   
+---
+Epoch 610 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.162   Accuracy: 0.949   
+---
+Epoch 611 of 1600
+Training:    Loss: 0.057   Accuracy: 0.978   
+Validation:  Loss: 0.159   Accuracy: 0.950   
+---
+Epoch 612 of 1600
+Training:    Loss: 0.054   Accuracy: 0.979   
+Validation:  Loss: 0.140   Accuracy: 0.952   
+---
+Epoch 613 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.162   Accuracy: 0.949   
+---
+Epoch 614 of 1600
+Training:    Loss: 0.059   Accuracy: 0.978   
+Validation:  Loss: 0.157   Accuracy: 0.951   
+---
+Epoch 615 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.157   Accuracy: 0.949   
+---
+Epoch 616 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.162   Accuracy: 0.948   
+---
+Epoch 617 of 1600
+Training:    Loss: 0.056   Accuracy: 0.979   
+Validation:  Loss: 0.168   Accuracy: 0.949   
+---
+Epoch 618 of 1600
+Training:    Loss: 0.063   Accuracy: 0.975   
+Validation:  Loss: 0.141   Accuracy: 0.952   
+---
+Epoch 619 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.146   Accuracy: 0.951   
+---
+Epoch 620 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.167   Accuracy: 0.946   
+---
+Epoch 621 of 1600
+Training:    Loss: 0.058   Accuracy: 0.978   
+Validation:  Loss: 0.159   Accuracy: 0.949   
+---
+Epoch 622 of 1600
+Training:    Loss: 0.053   Accuracy: 0.980   
+Validation:  Loss: 0.145   Accuracy: 0.951   
+---
+Epoch 623 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.148   Accuracy: 0.951   
+---
+Epoch 624 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.154   Accuracy: 0.950   
+---
+Epoch 625 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.157   Accuracy: 0.950   
+---
+Epoch 626 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.154   Accuracy: 0.950   
+---
+Epoch 627 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.181   Accuracy: 0.949   
+---
+Epoch 628 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.164   Accuracy: 0.949   
+---
+Epoch 629 of 1600
+Training:    Loss: 0.060   Accuracy: 0.977   
+Validation:  Loss: 0.181   Accuracy: 0.948   
+---
+Epoch 630 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.157   Accuracy: 0.949   
+---
+Epoch 631 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.154   Accuracy: 0.950   
+---
+Epoch 632 of 1600
+Training:    Loss: 0.060   Accuracy: 0.977   
+Validation:  Loss: 0.147   Accuracy: 0.951   
+---
+Epoch 633 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.153   Accuracy: 0.950   
+---
+Epoch 634 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.145   Accuracy: 0.950   
+---
+Epoch 635 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.148   Accuracy: 0.952   
+---
+Epoch 636 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.164   Accuracy: 0.949   
+---
+Epoch 637 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.150   Accuracy: 0.950   
+---
+Epoch 638 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.150   Accuracy: 0.951   
+---
+Epoch 639 of 1600
+Training:    Loss: 0.047   Accuracy: 0.982   
+Validation:  Loss: 0.151   Accuracy: 0.950   
+---
+Epoch 640 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.147   Accuracy: 0.950   
+---
+Epoch 641 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.151   Accuracy: 0.949   
+---
+Epoch 642 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.144   Accuracy: 0.951   
+---
+Epoch 643 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.155   Accuracy: 0.949   
+---
+Epoch 644 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.141   Accuracy: 0.952   
+---
+Epoch 645 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.150   Accuracy: 0.950   
+---
+Epoch 646 of 1600
+Training:    Loss: 0.049   Accuracy: 0.981   
+Validation:  Loss: 0.153   Accuracy: 0.948   
+---
+Epoch 647 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.156   Accuracy: 0.950   
+---
+Epoch 648 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.145   Accuracy: 0.950   
+---
+Epoch 649 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.172   Accuracy: 0.948   
+---
+Epoch 650 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.151   Accuracy: 0.951   
+---
+Epoch 651 of 1600
+Training:    Loss: 0.050   Accuracy: 0.982   
+Validation:  Loss: 0.157   Accuracy: 0.950   
+---
+Epoch 652 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.138   Accuracy: 0.953   
+---
+Epoch 653 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.143   Accuracy: 0.952   
+---
+Epoch 654 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.160   Accuracy: 0.947   
+---
+Epoch 655 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.150   Accuracy: 0.947   
+---
+Epoch 656 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.170   Accuracy: 0.950   
+---
+Epoch 657 of 1600
+Training:    Loss: 0.057   Accuracy: 0.979   
+Validation:  Loss: 0.158   Accuracy: 0.949   
+---
+Epoch 658 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.166   Accuracy: 0.947   
+---
+Epoch 659 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.143   Accuracy: 0.949   
+---
+Epoch 660 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.169   Accuracy: 0.949   
+---
+Epoch 661 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.162   Accuracy: 0.951   
+---
+Epoch 662 of 1600
+Training:    Loss: 0.055   Accuracy: 0.980   
+Validation:  Loss: 0.151   Accuracy: 0.952   
+---
+Epoch 663 of 1600
+Training:    Loss: 0.055   Accuracy: 0.979   
+Validation:  Loss: 0.159   Accuracy: 0.951   
+---
+Epoch 664 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.160   Accuracy: 0.948   
+---
+Epoch 665 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.153   Accuracy: 0.949   
+---
+Epoch 666 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.147   Accuracy: 0.950   
+---
+Epoch 667 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.146   Accuracy: 0.950   
+---
+Epoch 668 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.157   Accuracy: 0.950   
+---
+Epoch 669 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.153   Accuracy: 0.951   
+---
+Epoch 670 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.155   Accuracy: 0.950   
+---
+Epoch 671 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.149   Accuracy: 0.952   
+---
+Epoch 672 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.141   Accuracy: 0.951   
+---
+Epoch 673 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.157   Accuracy: 0.947   
+---
+Epoch 674 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.162   Accuracy: 0.950   
+---
+Epoch 675 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.152   Accuracy: 0.951   
+---
+Epoch 676 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.156   Accuracy: 0.951   
+---
+Epoch 677 of 1600
+Training:    Loss: 0.054   Accuracy: 0.979   
+Validation:  Loss: 0.162   Accuracy: 0.949   
+---
+Epoch 678 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.151   Accuracy: 0.949   
+---
+Epoch 679 of 1600
+Training:    Loss: 0.050   Accuracy: 0.982   
+Validation:  Loss: 0.179   Accuracy: 0.947   
+---
+Epoch 680 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.168   Accuracy: 0.949   
+---
+Epoch 681 of 1600
+Training:    Loss: 0.048   Accuracy: 0.982   
+Validation:  Loss: 0.156   Accuracy: 0.951   
+---
+Epoch 682 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.151   Accuracy: 0.951   
+---
+Epoch 683 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.152   Accuracy: 0.951   
+---
+Epoch 684 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.158   Accuracy: 0.951   
+---
+Epoch 685 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.154   Accuracy: 0.951   
+---
+Epoch 686 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.145   Accuracy: 0.951   
+---
+Epoch 687 of 1600
+Training:    Loss: 0.048   Accuracy: 0.982   
+Validation:  Loss: 0.156   Accuracy: 0.949   
+---
+Epoch 688 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.156   Accuracy: 0.949   
+---
+Epoch 689 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.165   Accuracy: 0.948   
+---
+Epoch 690 of 1600
+Training:    Loss: 0.047   Accuracy: 0.982   
+Validation:  Loss: 0.148   Accuracy: 0.951   
+---
+Epoch 691 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.149   Accuracy: 0.951   
+---
+Epoch 692 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.151   Accuracy: 0.952   
+---
+Epoch 693 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.155   Accuracy: 0.951   
+---
+Epoch 694 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.163   Accuracy: 0.950   
+---
+Epoch 695 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.159   Accuracy: 0.949   
+---
+Epoch 696 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.162   Accuracy: 0.949   
+---
+Epoch 697 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.150   Accuracy: 0.950   
+---
+Epoch 698 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.148   Accuracy: 0.950   
+---
+Epoch 699 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.157   Accuracy: 0.950   
+---
+Epoch 700 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.147   Accuracy: 0.951   
+---
+Epoch 701 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.148   Accuracy: 0.952   
+---
+Epoch 702 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.168   Accuracy: 0.950   
+---
+Epoch 703 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.155   Accuracy: 0.951   
+---
+Epoch 704 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 705 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.151   Accuracy: 0.952   
+---
+Epoch 706 of 1600
+Training:    Loss: 0.044   Accuracy: 0.983   
+Validation:  Loss: 0.170   Accuracy: 0.951   
+---
+Epoch 707 of 1600
+Training:    Loss: 0.047   Accuracy: 0.983   
+Validation:  Loss: 0.151   Accuracy: 0.952   
+---
+Epoch 708 of 1600
+Training:    Loss: 0.048   Accuracy: 0.983   
+Validation:  Loss: 0.156   Accuracy: 0.950   
+---
+Epoch 709 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.147   Accuracy: 0.952   
+---
+Epoch 710 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.171   Accuracy: 0.948   
+---
+Epoch 711 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.161   Accuracy: 0.951   
+---
+Epoch 712 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.160   Accuracy: 0.951   
+---
+Epoch 713 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.155   Accuracy: 0.952   
+---
+Epoch 714 of 1600
+Training:    Loss: 0.053   Accuracy: 0.980   
+Validation:  Loss: 0.150   Accuracy: 0.951   
+---
+Epoch 715 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.150   Accuracy: 0.954   
+---
+Epoch 716 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 717 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.149   Accuracy: 0.951   
+---
+Epoch 718 of 1600
+Training:    Loss: 0.047   Accuracy: 0.982   
+Validation:  Loss: 0.154   Accuracy: 0.952   
+---
+Epoch 719 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.159   Accuracy: 0.952   
+---
+Epoch 720 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.170   Accuracy: 0.949   
+---
+Epoch 721 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.169   Accuracy: 0.951   
+---
+Epoch 722 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.156   Accuracy: 0.952   
+---
+Epoch 723 of 1600
+Training:    Loss: 0.040   Accuracy: 0.986   
+Validation:  Loss: 0.162   Accuracy: 0.951   
+---
+Epoch 724 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.159   Accuracy: 0.951   
+---
+Epoch 725 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.165   Accuracy: 0.951   
+---
+Epoch 726 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.150   Accuracy: 0.953   
+---
+Epoch 727 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.161   Accuracy: 0.950   
+---
+Epoch 728 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.161   Accuracy: 0.950   
+---
+Epoch 729 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.163   Accuracy: 0.950   
+---
+Epoch 730 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.154   Accuracy: 0.952   
+---
+Epoch 731 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.145   Accuracy: 0.954   
+---
+Epoch 732 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.153   Accuracy: 0.952   
+---
+Epoch 733 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.148   Accuracy: 0.953   
+---
+Epoch 734 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.167   Accuracy: 0.948   
+---
+Epoch 735 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.161   Accuracy: 0.950   
+---
+Epoch 736 of 1600
+Training:    Loss: 0.046   Accuracy: 0.982   
+Validation:  Loss: 0.166   Accuracy: 0.948   
+---
+Epoch 737 of 1600
+Training:    Loss: 0.054   Accuracy: 0.980   
+Validation:  Loss: 0.185   Accuracy: 0.947   
+---
+Epoch 738 of 1600
+Training:    Loss: 0.052   Accuracy: 0.980   
+Validation:  Loss: 0.180   Accuracy: 0.950   
+---
+Epoch 739 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.164   Accuracy: 0.951   
+---
+Epoch 740 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.190   Accuracy: 0.948   
+---
+Epoch 741 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.154   Accuracy: 0.950   
+---
+Epoch 742 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.170   Accuracy: 0.950   
+---
+Epoch 743 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.162   Accuracy: 0.951   
+---
+Epoch 744 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.154   Accuracy: 0.953   
+---
+Epoch 745 of 1600
+Training:    Loss: 0.048   Accuracy: 0.982   
+Validation:  Loss: 0.148   Accuracy: 0.952   
+---
+Epoch 746 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.157   Accuracy: 0.949   
+---
+Epoch 747 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.155   Accuracy: 0.951   
+---
+Epoch 748 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.155   Accuracy: 0.950   
+---
+Epoch 749 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.156   Accuracy: 0.953   
+---
+Epoch 750 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.172   Accuracy: 0.948   
+---
+Epoch 751 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.175   Accuracy: 0.949   
+---
+Epoch 752 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.170   Accuracy: 0.949   
+---
+Epoch 753 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.169   Accuracy: 0.950   
+---
+Epoch 754 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 755 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.161   Accuracy: 0.952   
+---
+Epoch 756 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.169   Accuracy: 0.952   
+---
+Epoch 757 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.149   Accuracy: 0.953   
+---
+Epoch 758 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.158   Accuracy: 0.950   
+---
+Epoch 759 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.153   Accuracy: 0.952   
+---
+Epoch 760 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.163   Accuracy: 0.951   
+---
+Epoch 761 of 1600
+Training:    Loss: 0.043   Accuracy: 0.985   
+Validation:  Loss: 0.143   Accuracy: 0.955   
+---
+Epoch 762 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.160   Accuracy: 0.952   
+---
+Epoch 763 of 1600
+Training:    Loss: 0.047   Accuracy: 0.982   
+Validation:  Loss: 0.158   Accuracy: 0.951   
+---
+Epoch 764 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.150   Accuracy: 0.951   
+---
+Epoch 765 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 766 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.149   Accuracy: 0.954   
+---
+Epoch 767 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.152   Accuracy: 0.953   
+---
+Epoch 768 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.148   Accuracy: 0.954   
+---
+Epoch 769 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.148   Accuracy: 0.954   
+---
+Epoch 770 of 1600
+Training:    Loss: 0.050   Accuracy: 0.981   
+Validation:  Loss: 0.161   Accuracy: 0.951   
+---
+Epoch 771 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.150   Accuracy: 0.953   
+---
+Epoch 772 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.143   Accuracy: 0.954   
+---
+Epoch 773 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.158   Accuracy: 0.952   
+---
+Epoch 774 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.163   Accuracy: 0.951   
+---
+Epoch 775 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.152   Accuracy: 0.953   
+---
+Epoch 776 of 1600
+Training:    Loss: 0.040   Accuracy: 0.986   
+Validation:  Loss: 0.153   Accuracy: 0.953   
+---
+Epoch 777 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.151   Accuracy: 0.953   
+---
+Epoch 778 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.153   Accuracy: 0.954   
+---
+Epoch 779 of 1600
+Training:    Loss: 0.044   Accuracy: 0.983   
+Validation:  Loss: 0.146   Accuracy: 0.954   
+---
+Epoch 780 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.166   Accuracy: 0.952   
+---
+Epoch 781 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.150   Accuracy: 0.953   
+---
+Epoch 782 of 1600
+Training:    Loss: 0.039   Accuracy: 0.985   
+Validation:  Loss: 0.142   Accuracy: 0.954   
+---
+Epoch 783 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.141   Accuracy: 0.955   
+---
+Epoch 784 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.153   Accuracy: 0.952   
+---
+Epoch 785 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.174   Accuracy: 0.949   
+---
+Epoch 786 of 1600
+Training:    Loss: 0.052   Accuracy: 0.981   
+Validation:  Loss: 0.172   Accuracy: 0.949   
+---
+Epoch 787 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.164   Accuracy: 0.948   
+---
+Epoch 788 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.177   Accuracy: 0.951   
+---
+Epoch 789 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.194   Accuracy: 0.950   
+---
+Epoch 790 of 1600
+Training:    Loss: 0.048   Accuracy: 0.982   
+Validation:  Loss: 0.166   Accuracy: 0.952   
+---
+Epoch 791 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.153   Accuracy: 0.953   
+---
+Epoch 792 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.160   Accuracy: 0.953   
+---
+Epoch 793 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.152   Accuracy: 0.953   
+---
+Epoch 794 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.150   Accuracy: 0.953   
+---
+Epoch 795 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.151   Accuracy: 0.953   
+---
+Epoch 796 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.149   Accuracy: 0.953   
+---
+Epoch 797 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.201   Accuracy: 0.947   
+---
+Epoch 798 of 1600
+Training:    Loss: 0.051   Accuracy: 0.981   
+Validation:  Loss: 0.160   Accuracy: 0.952   
+---
+Epoch 799 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.143   Accuracy: 0.952   
+---
+Epoch 800 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.147   Accuracy: 0.954   
+---
+Epoch 801 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 802 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.163   Accuracy: 0.953   
+---
+Epoch 803 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 804 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.156   Accuracy: 0.952   
+---
+Epoch 805 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.953   
+---
+Epoch 806 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.153   Accuracy: 0.953   
+---
+Epoch 807 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.152   Accuracy: 0.953   
+---
+Epoch 808 of 1600
+Training:    Loss: 0.042   Accuracy: 0.985   
+Validation:  Loss: 0.148   Accuracy: 0.954   
+---
+Epoch 809 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.137   Accuracy: 0.956   
+---
+Epoch 810 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.164   Accuracy: 0.950   
+---
+Epoch 811 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.154   Accuracy: 0.952   
+---
+Epoch 812 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.158   Accuracy: 0.952   
+---
+Epoch 813 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.146   Accuracy: 0.955   
+---
+Epoch 814 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.169   Accuracy: 0.950   
+---
+Epoch 815 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.152   Accuracy: 0.953   
+---
+Epoch 816 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.151   Accuracy: 0.953   
+---
+Epoch 817 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.152   Accuracy: 0.952   
+---
+Epoch 818 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.146   Accuracy: 0.955   
+---
+Epoch 819 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.160   Accuracy: 0.951   
+---
+Epoch 820 of 1600
+Training:    Loss: 0.049   Accuracy: 0.982   
+Validation:  Loss: 0.186   Accuracy: 0.949   
+---
+Epoch 821 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.157   Accuracy: 0.952   
+---
+Epoch 822 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.169   Accuracy: 0.951   
+---
+Epoch 823 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.151   Accuracy: 0.953   
+---
+Epoch 824 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.154   Accuracy: 0.954   
+---
+Epoch 825 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.156   Accuracy: 0.953   
+---
+Epoch 826 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.146   Accuracy: 0.954   
+---
+Epoch 827 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.146   Accuracy: 0.954   
+---
+Epoch 828 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.147   Accuracy: 0.954   
+---
+Epoch 829 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.147   Accuracy: 0.954   
+---
+Epoch 830 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.161   Accuracy: 0.952   
+---
+Epoch 831 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.158   Accuracy: 0.952   
+---
+Epoch 832 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.169   Accuracy: 0.953   
+---
+Epoch 833 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.155   Accuracy: 0.952   
+---
+Epoch 834 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.145   Accuracy: 0.954   
+---
+Epoch 835 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.154   Accuracy: 0.953   
+---
+Epoch 836 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.149   Accuracy: 0.953   
+---
+Epoch 837 of 1600
+Training:    Loss: 0.035   Accuracy: 0.988   
+Validation:  Loss: 0.145   Accuracy: 0.955   
+---
+Epoch 838 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.151   Accuracy: 0.954   
+---
+Epoch 839 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.150   Accuracy: 0.954   
+---
+Epoch 840 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.161   Accuracy: 0.951   
+---
+Epoch 841 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.147   Accuracy: 0.954   
+---
+Epoch 842 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.147   Accuracy: 0.954   
+---
+Epoch 843 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.146   Accuracy: 0.955   
+---
+Epoch 844 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.158   Accuracy: 0.953   
+---
+Epoch 845 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.157   Accuracy: 0.955   
+---
+Epoch 846 of 1600
+Training:    Loss: 0.043   Accuracy: 0.985   
+Validation:  Loss: 0.191   Accuracy: 0.949   
+---
+Epoch 847 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.161   Accuracy: 0.953   
+---
+Epoch 848 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.159   Accuracy: 0.953   
+---
+Epoch 849 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.140   Accuracy: 0.955   
+---
+Epoch 850 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.165   Accuracy: 0.953   
+---
+Epoch 851 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.158   Accuracy: 0.954   
+---
+Epoch 852 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 853 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.150   Accuracy: 0.955   
+---
+Epoch 854 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.159   Accuracy: 0.953   
+---
+Epoch 855 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.165   Accuracy: 0.951   
+---
+Epoch 856 of 1600
+Training:    Loss: 0.034   Accuracy: 0.987   
+Validation:  Loss: 0.152   Accuracy: 0.955   
+---
+Epoch 857 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.155   Accuracy: 0.953   
+---
+Epoch 858 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.156   Accuracy: 0.954   
+---
+Epoch 859 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.158   Accuracy: 0.952   
+---
+Epoch 860 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.160   Accuracy: 0.953   
+---
+Epoch 861 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.952   
+---
+Epoch 862 of 1600
+Training:    Loss: 0.034   Accuracy: 0.987   
+Validation:  Loss: 0.172   Accuracy: 0.953   
+---
+Epoch 863 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.186   Accuracy: 0.950   
+---
+Epoch 864 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.184   Accuracy: 0.949   
+---
+Epoch 865 of 1600
+Training:    Loss: 0.046   Accuracy: 0.983   
+Validation:  Loss: 0.152   Accuracy: 0.954   
+---
+Epoch 866 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.155   Accuracy: 0.953   
+---
+Epoch 867 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.165   Accuracy: 0.954   
+---
+Epoch 868 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.156   Accuracy: 0.954   
+---
+Epoch 869 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.156   Accuracy: 0.955   
+---
+Epoch 870 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.148   Accuracy: 0.954   
+---
+Epoch 871 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.161   Accuracy: 0.953   
+---
+Epoch 872 of 1600
+Training:    Loss: 0.035   Accuracy: 0.988   
+Validation:  Loss: 0.149   Accuracy: 0.954   
+---
+Epoch 873 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.156   Accuracy: 0.953   
+---
+Epoch 874 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 875 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.147   Accuracy: 0.955   
+---
+Epoch 876 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.148   Accuracy: 0.955   
+---
+Epoch 877 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.165   Accuracy: 0.952   
+---
+Epoch 878 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.160   Accuracy: 0.953   
+---
+Epoch 879 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.162   Accuracy: 0.952   
+---
+Epoch 880 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.158   Accuracy: 0.953   
+---
+Epoch 881 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.154   Accuracy: 0.954   
+---
+Epoch 882 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.170   Accuracy: 0.953   
+---
+Epoch 883 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.150   Accuracy: 0.955   
+---
+Epoch 884 of 1600
+Training:    Loss: 0.041   Accuracy: 0.986   
+Validation:  Loss: 0.169   Accuracy: 0.953   
+---
+Epoch 885 of 1600
+Training:    Loss: 0.045   Accuracy: 0.983   
+Validation:  Loss: 0.196   Accuracy: 0.949   
+---
+Epoch 886 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.155   Accuracy: 0.952   
+---
+Epoch 887 of 1600
+Training:    Loss: 0.041   Accuracy: 0.984   
+Validation:  Loss: 0.185   Accuracy: 0.951   
+---
+Epoch 888 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.150   Accuracy: 0.953   
+---
+Epoch 889 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.151   Accuracy: 0.954   
+---
+Epoch 890 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.166   Accuracy: 0.953   
+---
+Epoch 891 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.170   Accuracy: 0.951   
+---
+Epoch 892 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 893 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.163   Accuracy: 0.953   
+---
+Epoch 894 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.160   Accuracy: 0.954   
+---
+Epoch 895 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 896 of 1600
+Training:    Loss: 0.039   Accuracy: 0.985   
+Validation:  Loss: 0.158   Accuracy: 0.953   
+---
+Epoch 897 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.153   Accuracy: 0.955   
+---
+Epoch 898 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.159   Accuracy: 0.953   
+---
+Epoch 899 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 900 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.155   Accuracy: 0.954   
+---
+Epoch 901 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.151   Accuracy: 0.955   
+---
+Epoch 902 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.165   Accuracy: 0.951   
+---
+Epoch 903 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 904 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.155   Accuracy: 0.954   
+---
+Epoch 905 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.160   Accuracy: 0.954   
+---
+Epoch 906 of 1600
+Training:    Loss: 0.040   Accuracy: 0.986   
+Validation:  Loss: 0.146   Accuracy: 0.956   
+---
+Epoch 907 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.168   Accuracy: 0.954   
+---
+Epoch 908 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 909 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.150   Accuracy: 0.956   
+---
+Epoch 910 of 1600
+Training:    Loss: 0.040   Accuracy: 0.986   
+Validation:  Loss: 0.160   Accuracy: 0.954   
+---
+Epoch 911 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.157   Accuracy: 0.955   
+---
+Epoch 912 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 913 of 1600
+Training:    Loss: 0.040   Accuracy: 0.986   
+Validation:  Loss: 0.150   Accuracy: 0.955   
+---
+Epoch 914 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.175   Accuracy: 0.953   
+---
+Epoch 915 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.165   Accuracy: 0.954   
+---
+Epoch 916 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 917 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.147   Accuracy: 0.955   
+---
+Epoch 918 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.156   Accuracy: 0.955   
+---
+Epoch 919 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.953   
+---
+Epoch 920 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.162   Accuracy: 0.953   
+---
+Epoch 921 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.952   
+---
+Epoch 922 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.954   
+---
+Epoch 923 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 924 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.153   Accuracy: 0.955   
+---
+Epoch 925 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.156   Accuracy: 0.955   
+---
+Epoch 926 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 927 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.162   Accuracy: 0.953   
+---
+Epoch 928 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.956   
+---
+Epoch 929 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.151   Accuracy: 0.955   
+---
+Epoch 930 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.156   Accuracy: 0.955   
+---
+Epoch 931 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.164   Accuracy: 0.953   
+---
+Epoch 932 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.159   Accuracy: 0.953   
+---
+Epoch 933 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.169   Accuracy: 0.950   
+---
+Epoch 934 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.954   
+---
+Epoch 935 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.164   Accuracy: 0.953   
+---
+Epoch 936 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.164   Accuracy: 0.955   
+---
+Epoch 937 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.154   Accuracy: 0.955   
+---
+Epoch 938 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.158   Accuracy: 0.953   
+---
+Epoch 939 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.153   Accuracy: 0.955   
+---
+Epoch 940 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.160   Accuracy: 0.954   
+---
+Epoch 941 of 1600
+Training:    Loss: 0.042   Accuracy: 0.984   
+Validation:  Loss: 0.159   Accuracy: 0.951   
+---
+Epoch 942 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.954   
+---
+Epoch 943 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.166   Accuracy: 0.953   
+---
+Epoch 944 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.182   Accuracy: 0.952   
+---
+Epoch 945 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.149   Accuracy: 0.954   
+---
+Epoch 946 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.170   Accuracy: 0.949   
+---
+Epoch 947 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.148   Accuracy: 0.954   
+---
+Epoch 948 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.161   Accuracy: 0.953   
+---
+Epoch 949 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.166   Accuracy: 0.953   
+---
+Epoch 950 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 951 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 952 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 953 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.165   Accuracy: 0.955   
+---
+Epoch 954 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.165   Accuracy: 0.954   
+---
+Epoch 955 of 1600
+Training:    Loss: 0.033   Accuracy: 0.989   
+Validation:  Loss: 0.182   Accuracy: 0.952   
+---
+Epoch 956 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.160   Accuracy: 0.953   
+---
+Epoch 957 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.153   Accuracy: 0.955   
+---
+Epoch 958 of 1600
+Training:    Loss: 0.038   Accuracy: 0.987   
+Validation:  Loss: 0.166   Accuracy: 0.952   
+---
+Epoch 959 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.161   Accuracy: 0.953   
+---
+Epoch 960 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.159   Accuracy: 0.954   
+---
+Epoch 961 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.174   Accuracy: 0.950   
+---
+Epoch 962 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.176   Accuracy: 0.953   
+---
+Epoch 963 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 964 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.152   Accuracy: 0.954   
+---
+Epoch 965 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.167   Accuracy: 0.952   
+---
+Epoch 966 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.151   Accuracy: 0.955   
+---
+Epoch 967 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.155   Accuracy: 0.954   
+---
+Epoch 968 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.154   Accuracy: 0.955   
+---
+Epoch 969 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.146   Accuracy: 0.956   
+---
+Epoch 970 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.145   Accuracy: 0.956   
+---
+Epoch 971 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.149   Accuracy: 0.955   
+---
+Epoch 972 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.167   Accuracy: 0.955   
+---
+Epoch 973 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.168   Accuracy: 0.954   
+---
+Epoch 974 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.168   Accuracy: 0.954   
+---
+Epoch 975 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 976 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.154   Accuracy: 0.955   
+---
+Epoch 977 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.170   Accuracy: 0.953   
+---
+Epoch 978 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.160   Accuracy: 0.954   
+---
+Epoch 979 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.154   Accuracy: 0.955   
+---
+Epoch 980 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.157   Accuracy: 0.954   
+---
+Epoch 981 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.172   Accuracy: 0.954   
+---
+Epoch 982 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.169   Accuracy: 0.953   
+---
+Epoch 983 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 984 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.168   Accuracy: 0.952   
+---
+Epoch 985 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.157   Accuracy: 0.954   
+---
+Epoch 986 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 987 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.154   Accuracy: 0.957   
+---
+Epoch 988 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.159   Accuracy: 0.956   
+---
+Epoch 989 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.153   Accuracy: 0.956   
+---
+Epoch 990 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.956   
+---
+Epoch 991 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.955   
+---
+Epoch 992 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.148   Accuracy: 0.956   
+---
+Epoch 993 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.955   
+---
+Epoch 994 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.156   Accuracy: 0.956   
+---
+Epoch 995 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.152   Accuracy: 0.956   
+---
+Epoch 996 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.148   Accuracy: 0.955   
+---
+Epoch 997 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.159   Accuracy: 0.956   
+---
+Epoch 998 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.170   Accuracy: 0.954   
+---
+Epoch 999 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 1000 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 1001 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1002 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.176   Accuracy: 0.954   
+---
+Epoch 1003 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 1004 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.152   Accuracy: 0.957   
+---
+Epoch 1005 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.146   Accuracy: 0.957   
+---
+Epoch 1006 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.159   Accuracy: 0.954   
+---
+Epoch 1007 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.164   Accuracy: 0.955   
+---
+Epoch 1008 of 1600
+Training:    Loss: 0.038   Accuracy: 0.986   
+Validation:  Loss: 0.171   Accuracy: 0.955   
+---
+Epoch 1009 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.167   Accuracy: 0.955   
+---
+Epoch 1010 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.146   Accuracy: 0.955   
+---
+Epoch 1011 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.148   Accuracy: 0.956   
+---
+Epoch 1012 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1013 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.172   Accuracy: 0.955   
+---
+Epoch 1014 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.165   Accuracy: 0.955   
+---
+Epoch 1015 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.155   Accuracy: 0.956   
+---
+Epoch 1016 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.166   Accuracy: 0.954   
+---
+Epoch 1017 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.157   Accuracy: 0.956   
+---
+Epoch 1018 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 1019 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.955   
+---
+Epoch 1020 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.166   Accuracy: 0.953   
+---
+Epoch 1021 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.157   Accuracy: 0.955   
+---
+Epoch 1022 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.181   Accuracy: 0.954   
+---
+Epoch 1023 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.169   Accuracy: 0.953   
+---
+Epoch 1024 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.169   Accuracy: 0.954   
+---
+Epoch 1025 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.139   Accuracy: 0.957   
+---
+Epoch 1026 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.149   Accuracy: 0.955   
+---
+Epoch 1027 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.150   Accuracy: 0.955   
+---
+Epoch 1028 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1029 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.158   Accuracy: 0.956   
+---
+Epoch 1030 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1031 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.151   Accuracy: 0.955   
+---
+Epoch 1032 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.956   
+---
+Epoch 1033 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.144   Accuracy: 0.957   
+---
+Epoch 1034 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.158   Accuracy: 0.955   
+---
+Epoch 1035 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.157   Accuracy: 0.956   
+---
+Epoch 1036 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.152   Accuracy: 0.956   
+---
+Epoch 1037 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.158   Accuracy: 0.956   
+---
+Epoch 1038 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.165   Accuracy: 0.955   
+---
+Epoch 1039 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.149   Accuracy: 0.956   
+---
+Epoch 1040 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.152   Accuracy: 0.956   
+---
+Epoch 1041 of 1600
+Training:    Loss: 0.035   Accuracy: 0.987   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 1042 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.167   Accuracy: 0.955   
+---
+Epoch 1043 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.144   Accuracy: 0.956   
+---
+Epoch 1044 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.154   Accuracy: 0.956   
+---
+Epoch 1045 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.156   Accuracy: 0.956   
+---
+Epoch 1046 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.162   Accuracy: 0.955   
+---
+Epoch 1047 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.157   Accuracy: 0.956   
+---
+Epoch 1048 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.172   Accuracy: 0.955   
+---
+Epoch 1049 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.165   Accuracy: 0.954   
+---
+Epoch 1050 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 1051 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.955   
+---
+Epoch 1052 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.956   
+---
+Epoch 1053 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.146   Accuracy: 0.956   
+---
+Epoch 1054 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.151   Accuracy: 0.956   
+---
+Epoch 1055 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.151   Accuracy: 0.956   
+---
+Epoch 1056 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 1057 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.170   Accuracy: 0.955   
+---
+Epoch 1058 of 1600
+Training:    Loss: 0.039   Accuracy: 0.986   
+Validation:  Loss: 0.156   Accuracy: 0.954   
+---
+Epoch 1059 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.156   Accuracy: 0.955   
+---
+Epoch 1060 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.169   Accuracy: 0.954   
+---
+Epoch 1061 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.155   Accuracy: 0.958   
+---
+Epoch 1062 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.173   Accuracy: 0.952   
+---
+Epoch 1063 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.155   Accuracy: 0.956   
+---
+Epoch 1064 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.161   Accuracy: 0.954   
+---
+Epoch 1065 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.163   Accuracy: 0.955   
+---
+Epoch 1066 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.156   Accuracy: 0.956   
+---
+Epoch 1067 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.173   Accuracy: 0.954   
+---
+Epoch 1068 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1069 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.165   Accuracy: 0.954   
+---
+Epoch 1070 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.154   Accuracy: 0.956   
+---
+Epoch 1071 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.156   Accuracy: 0.954   
+---
+Epoch 1072 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.172   Accuracy: 0.954   
+---
+Epoch 1073 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.155   Accuracy: 0.956   
+---
+Epoch 1074 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.190   Accuracy: 0.953   
+---
+Epoch 1075 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 1076 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.955   
+---
+Epoch 1077 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.171   Accuracy: 0.956   
+---
+Epoch 1078 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.170   Accuracy: 0.953   
+---
+Epoch 1079 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.162   Accuracy: 0.955   
+---
+Epoch 1080 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.171   Accuracy: 0.955   
+---
+Epoch 1081 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.169   Accuracy: 0.954   
+---
+Epoch 1082 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.164   Accuracy: 0.954   
+---
+Epoch 1083 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.183   Accuracy: 0.953   
+---
+Epoch 1084 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.953   
+---
+Epoch 1085 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.168   Accuracy: 0.953   
+---
+Epoch 1086 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.156   Accuracy: 0.953   
+---
+Epoch 1087 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.181   Accuracy: 0.953   
+---
+Epoch 1088 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.168   Accuracy: 0.954   
+---
+Epoch 1089 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.169   Accuracy: 0.955   
+---
+Epoch 1090 of 1600
+Training:    Loss: 0.034   Accuracy: 0.987   
+Validation:  Loss: 0.187   Accuracy: 0.953   
+---
+Epoch 1091 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.173   Accuracy: 0.954   
+---
+Epoch 1092 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.181   Accuracy: 0.953   
+---
+Epoch 1093 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 1094 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 1095 of 1600
+Training:    Loss: 0.040   Accuracy: 0.985   
+Validation:  Loss: 0.187   Accuracy: 0.950   
+---
+Epoch 1096 of 1600
+Training:    Loss: 0.041   Accuracy: 0.985   
+Validation:  Loss: 0.169   Accuracy: 0.952   
+---
+Epoch 1097 of 1600
+Training:    Loss: 0.034   Accuracy: 0.987   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 1098 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.953   
+---
+Epoch 1099 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.158   Accuracy: 0.955   
+---
+Epoch 1100 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.170   Accuracy: 0.953   
+---
+Epoch 1101 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.152   Accuracy: 0.955   
+---
+Epoch 1102 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.159   Accuracy: 0.955   
+---
+Epoch 1103 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.956   
+---
+Epoch 1104 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.164   Accuracy: 0.956   
+---
+Epoch 1105 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1106 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.153   Accuracy: 0.955   
+---
+Epoch 1107 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.152   Accuracy: 0.957   
+---
+Epoch 1108 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.168   Accuracy: 0.956   
+---
+Epoch 1109 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1110 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.155   Accuracy: 0.956   
+---
+Epoch 1111 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1112 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1113 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.164   Accuracy: 0.956   
+---
+Epoch 1114 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.152   Accuracy: 0.956   
+---
+Epoch 1115 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.165   Accuracy: 0.955   
+---
+Epoch 1116 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.173   Accuracy: 0.955   
+---
+Epoch 1117 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.955   
+---
+Epoch 1118 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.162   Accuracy: 0.955   
+---
+Epoch 1119 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.165   Accuracy: 0.955   
+---
+Epoch 1120 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1121 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.153   Accuracy: 0.956   
+---
+Epoch 1122 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1123 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.158   Accuracy: 0.956   
+---
+Epoch 1124 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 1125 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1126 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1127 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1128 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.167   Accuracy: 0.954   
+---
+Epoch 1129 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.168   Accuracy: 0.955   
+---
+Epoch 1130 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1131 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.164   Accuracy: 0.954   
+---
+Epoch 1132 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.191   Accuracy: 0.951   
+---
+Epoch 1133 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.161   Accuracy: 0.954   
+---
+Epoch 1134 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.171   Accuracy: 0.954   
+---
+Epoch 1135 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.170   Accuracy: 0.955   
+---
+Epoch 1136 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.173   Accuracy: 0.953   
+---
+Epoch 1137 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.167   Accuracy: 0.954   
+---
+Epoch 1138 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.955   
+---
+Epoch 1139 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.957   
+---
+Epoch 1140 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.162   Accuracy: 0.956   
+---
+Epoch 1141 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.156   Accuracy: 0.957   
+---
+Epoch 1142 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1143 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.156   Accuracy: 0.956   
+---
+Epoch 1144 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1145 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1146 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.178   Accuracy: 0.956   
+---
+Epoch 1147 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1148 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.158   Accuracy: 0.956   
+---
+Epoch 1149 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 1150 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1151 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.168   Accuracy: 0.955   
+---
+Epoch 1152 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.151   Accuracy: 0.956   
+---
+Epoch 1153 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.176   Accuracy: 0.954   
+---
+Epoch 1154 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.167   Accuracy: 0.953   
+---
+Epoch 1155 of 1600
+Training:    Loss: 0.037   Accuracy: 0.987   
+Validation:  Loss: 0.171   Accuracy: 0.954   
+---
+Epoch 1156 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.165   Accuracy: 0.954   
+---
+Epoch 1157 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.196   Accuracy: 0.952   
+---
+Epoch 1158 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.180   Accuracy: 0.953   
+---
+Epoch 1159 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1160 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.157   Accuracy: 0.956   
+---
+Epoch 1161 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.956   
+---
+Epoch 1162 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.160   Accuracy: 0.954   
+---
+Epoch 1163 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.195   Accuracy: 0.955   
+---
+Epoch 1164 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1165 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.157   Accuracy: 0.957   
+---
+Epoch 1166 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.157   Accuracy: 0.957   
+---
+Epoch 1167 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.147   Accuracy: 0.958   
+---
+Epoch 1168 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.158   Accuracy: 0.957   
+---
+Epoch 1169 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.153   Accuracy: 0.957   
+---
+Epoch 1170 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.152   Accuracy: 0.957   
+---
+Epoch 1171 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.154   Accuracy: 0.957   
+---
+Epoch 1172 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.148   Accuracy: 0.958   
+---
+Epoch 1173 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1174 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.167   Accuracy: 0.956   
+---
+Epoch 1175 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.178   Accuracy: 0.955   
+---
+Epoch 1176 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1177 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.159   Accuracy: 0.957   
+---
+Epoch 1178 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1179 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.158   Accuracy: 0.957   
+---
+Epoch 1180 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.159   Accuracy: 0.958   
+---
+Epoch 1181 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.181   Accuracy: 0.954   
+---
+Epoch 1182 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.174   Accuracy: 0.954   
+---
+Epoch 1183 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.176   Accuracy: 0.953   
+---
+Epoch 1184 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.187   Accuracy: 0.951   
+---
+Epoch 1185 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.173   Accuracy: 0.953   
+---
+Epoch 1186 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 1187 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.192   Accuracy: 0.953   
+---
+Epoch 1188 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.160   Accuracy: 0.955   
+---
+Epoch 1189 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.957   
+---
+Epoch 1190 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1191 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.152   Accuracy: 0.956   
+---
+Epoch 1192 of 1600
+Training:    Loss: 0.039   Accuracy: 0.987   
+Validation:  Loss: 0.166   Accuracy: 0.956   
+---
+Epoch 1193 of 1600
+Training:    Loss: 0.044   Accuracy: 0.984   
+Validation:  Loss: 0.172   Accuracy: 0.953   
+---
+Epoch 1194 of 1600
+Training:    Loss: 0.037   Accuracy: 0.986   
+Validation:  Loss: 0.159   Accuracy: 0.956   
+---
+Epoch 1195 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1196 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.161   Accuracy: 0.957   
+---
+Epoch 1197 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.162   Accuracy: 0.956   
+---
+Epoch 1198 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.152   Accuracy: 0.957   
+---
+Epoch 1199 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.166   Accuracy: 0.956   
+---
+Epoch 1200 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.178   Accuracy: 0.956   
+---
+Epoch 1201 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.166   Accuracy: 0.956   
+---
+Epoch 1202 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.173   Accuracy: 0.956   
+---
+Epoch 1203 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.177   Accuracy: 0.954   
+---
+Epoch 1204 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.166   Accuracy: 0.956   
+---
+Epoch 1205 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.958   
+---
+Epoch 1206 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.158   Accuracy: 0.957   
+---
+Epoch 1207 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1208 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.156   Accuracy: 0.957   
+---
+Epoch 1209 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.153   Accuracy: 0.957   
+---
+Epoch 1210 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.158   Accuracy: 0.956   
+---
+Epoch 1211 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1212 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.162   Accuracy: 0.956   
+---
+Epoch 1213 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.167   Accuracy: 0.954   
+---
+Epoch 1214 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.164   Accuracy: 0.955   
+---
+Epoch 1215 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.168   Accuracy: 0.956   
+---
+Epoch 1216 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.158   Accuracy: 0.955   
+---
+Epoch 1217 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.954   
+---
+Epoch 1218 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1219 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.174   Accuracy: 0.950   
+---
+Epoch 1220 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.166   Accuracy: 0.957   
+---
+Epoch 1221 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.142   Accuracy: 0.958   
+---
+Epoch 1222 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.151   Accuracy: 0.958   
+---
+Epoch 1223 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.170   Accuracy: 0.954   
+---
+Epoch 1224 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.173   Accuracy: 0.954   
+---
+Epoch 1225 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.168   Accuracy: 0.955   
+---
+Epoch 1226 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.174   Accuracy: 0.955   
+---
+Epoch 1227 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.178   Accuracy: 0.954   
+---
+Epoch 1228 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.167   Accuracy: 0.955   
+---
+Epoch 1229 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.171   Accuracy: 0.956   
+---
+Epoch 1230 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.158   Accuracy: 0.957   
+---
+Epoch 1231 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1232 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.172   Accuracy: 0.956   
+---
+Epoch 1233 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.161   Accuracy: 0.955   
+---
+Epoch 1234 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.173   Accuracy: 0.955   
+---
+Epoch 1235 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1236 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.162   Accuracy: 0.957   
+---
+Epoch 1237 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1238 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.154   Accuracy: 0.957   
+---
+Epoch 1239 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1240 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.158   Accuracy: 0.955   
+---
+Epoch 1241 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.150   Accuracy: 0.958   
+---
+Epoch 1242 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1243 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.173   Accuracy: 0.956   
+---
+Epoch 1244 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1245 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1246 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1247 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.155   Accuracy: 0.958   
+---
+Epoch 1248 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1249 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.159   Accuracy: 0.957   
+---
+Epoch 1250 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1251 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1252 of 1600
+Training:    Loss: 0.019   Accuracy: 0.994   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1253 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.152   Accuracy: 0.958   
+---
+Epoch 1254 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.172   Accuracy: 0.956   
+---
+Epoch 1255 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.173   Accuracy: 0.956   
+---
+Epoch 1256 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.165   Accuracy: 0.957   
+---
+Epoch 1257 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.162   Accuracy: 0.958   
+---
+Epoch 1258 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.959   
+---
+Epoch 1259 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.956   
+---
+Epoch 1260 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.165   Accuracy: 0.957   
+---
+Epoch 1261 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1262 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.156   Accuracy: 0.957   
+---
+Epoch 1263 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.161   Accuracy: 0.959   
+---
+Epoch 1264 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.158   Accuracy: 0.957   
+---
+Epoch 1265 of 1600
+Training:    Loss: 0.025   Accuracy: 0.992   
+Validation:  Loss: 0.195   Accuracy: 0.955   
+---
+Epoch 1266 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.172   Accuracy: 0.957   
+---
+Epoch 1267 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.170   Accuracy: 0.957   
+---
+Epoch 1268 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.157   Accuracy: 0.958   
+---
+Epoch 1269 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1270 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.175   Accuracy: 0.954   
+---
+Epoch 1271 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.178   Accuracy: 0.955   
+---
+Epoch 1272 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.155   Accuracy: 0.955   
+---
+Epoch 1273 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.178   Accuracy: 0.953   
+---
+Epoch 1274 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.166   Accuracy: 0.954   
+---
+Epoch 1275 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.168   Accuracy: 0.956   
+---
+Epoch 1276 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.188   Accuracy: 0.954   
+---
+Epoch 1277 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.155   Accuracy: 0.958   
+---
+Epoch 1278 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1279 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.159   Accuracy: 0.956   
+---
+Epoch 1280 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.179   Accuracy: 0.955   
+---
+Epoch 1281 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.167   Accuracy: 0.957   
+---
+Epoch 1282 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.159   Accuracy: 0.958   
+---
+Epoch 1283 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.162   Accuracy: 0.957   
+---
+Epoch 1284 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.151   Accuracy: 0.958   
+---
+Epoch 1285 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.171   Accuracy: 0.957   
+---
+Epoch 1286 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.177   Accuracy: 0.954   
+---
+Epoch 1287 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.167   Accuracy: 0.956   
+---
+Epoch 1288 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.172   Accuracy: 0.957   
+---
+Epoch 1289 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1290 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.177   Accuracy: 0.956   
+---
+Epoch 1291 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.170   Accuracy: 0.956   
+---
+Epoch 1292 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.159   Accuracy: 0.957   
+---
+Epoch 1293 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1294 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1295 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.168   Accuracy: 0.956   
+---
+Epoch 1296 of 1600
+Training:    Loss: 0.030   Accuracy: 0.990   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1297 of 1600
+Training:    Loss: 0.031   Accuracy: 0.989   
+Validation:  Loss: 0.183   Accuracy: 0.954   
+---
+Epoch 1298 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1299 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1300 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.173   Accuracy: 0.956   
+---
+Epoch 1301 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1302 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.958   
+---
+Epoch 1303 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.162   Accuracy: 0.956   
+---
+Epoch 1304 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1305 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.151   Accuracy: 0.957   
+---
+Epoch 1306 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.166   Accuracy: 0.956   
+---
+Epoch 1307 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.163   Accuracy: 0.956   
+---
+Epoch 1308 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.956   
+---
+Epoch 1309 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.178   Accuracy: 0.955   
+---
+Epoch 1310 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.190   Accuracy: 0.954   
+---
+Epoch 1311 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.182   Accuracy: 0.955   
+---
+Epoch 1312 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.195   Accuracy: 0.955   
+---
+Epoch 1313 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.174   Accuracy: 0.956   
+---
+Epoch 1314 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.958   
+---
+Epoch 1315 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.147   Accuracy: 0.955   
+---
+Epoch 1316 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.162   Accuracy: 0.955   
+---
+Epoch 1317 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.249   Accuracy: 0.952   
+---
+Epoch 1318 of 1600
+Training:    Loss: 0.029   Accuracy: 0.989   
+Validation:  Loss: 0.179   Accuracy: 0.955   
+---
+Epoch 1319 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.151   Accuracy: 0.957   
+---
+Epoch 1320 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.153   Accuracy: 0.957   
+---
+Epoch 1321 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.156   Accuracy: 0.957   
+---
+Epoch 1322 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.152   Accuracy: 0.958   
+---
+Epoch 1323 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.152   Accuracy: 0.958   
+---
+Epoch 1324 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.166   Accuracy: 0.956   
+---
+Epoch 1325 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1326 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.159   Accuracy: 0.957   
+---
+Epoch 1327 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.160   Accuracy: 0.956   
+---
+Epoch 1328 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.957   
+---
+Epoch 1329 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.160   Accuracy: 0.958   
+---
+Epoch 1330 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.156   Accuracy: 0.957   
+---
+Epoch 1331 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1332 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1333 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.174   Accuracy: 0.956   
+---
+Epoch 1334 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.180   Accuracy: 0.954   
+---
+Epoch 1335 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.957   
+---
+Epoch 1336 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.162   Accuracy: 0.957   
+---
+Epoch 1337 of 1600
+Training:    Loss: 0.019   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.955   
+---
+Epoch 1338 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.165   Accuracy: 0.958   
+---
+Epoch 1339 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1340 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.163   Accuracy: 0.955   
+---
+Epoch 1341 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.167   Accuracy: 0.955   
+---
+Epoch 1342 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1343 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.168   Accuracy: 0.957   
+---
+Epoch 1344 of 1600
+Training:    Loss: 0.027   Accuracy: 0.991   
+Validation:  Loss: 0.174   Accuracy: 0.957   
+---
+Epoch 1345 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.167   Accuracy: 0.957   
+---
+Epoch 1346 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.175   Accuracy: 0.957   
+---
+Epoch 1347 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.170   Accuracy: 0.956   
+---
+Epoch 1348 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.159   Accuracy: 0.957   
+---
+Epoch 1349 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1350 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.165   Accuracy: 0.956   
+---
+Epoch 1351 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.156   Accuracy: 0.958   
+---
+Epoch 1352 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.178   Accuracy: 0.955   
+---
+Epoch 1353 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.168   Accuracy: 0.957   
+---
+Epoch 1354 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.170   Accuracy: 0.956   
+---
+Epoch 1355 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.188   Accuracy: 0.956   
+---
+Epoch 1356 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.166   Accuracy: 0.957   
+---
+Epoch 1357 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.176   Accuracy: 0.956   
+---
+Epoch 1358 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.174   Accuracy: 0.958   
+---
+Epoch 1359 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.181   Accuracy: 0.956   
+---
+Epoch 1360 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.167   Accuracy: 0.956   
+---
+Epoch 1361 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.180   Accuracy: 0.955   
+---
+Epoch 1362 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1363 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.168   Accuracy: 0.957   
+---
+Epoch 1364 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.176   Accuracy: 0.956   
+---
+Epoch 1365 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.167   Accuracy: 0.957   
+---
+Epoch 1366 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.171   Accuracy: 0.955   
+---
+Epoch 1367 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.174   Accuracy: 0.957   
+---
+Epoch 1368 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.171   Accuracy: 0.956   
+---
+Epoch 1369 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.169   Accuracy: 0.957   
+---
+Epoch 1370 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1371 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.193   Accuracy: 0.955   
+---
+Epoch 1372 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.172   Accuracy: 0.955   
+---
+Epoch 1373 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1374 of 1600
+Training:    Loss: 0.043   Accuracy: 0.984   
+Validation:  Loss: 0.204   Accuracy: 0.952   
+---
+Epoch 1375 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.178   Accuracy: 0.955   
+---
+Epoch 1376 of 1600
+Training:    Loss: 0.034   Accuracy: 0.988   
+Validation:  Loss: 0.199   Accuracy: 0.954   
+---
+Epoch 1377 of 1600
+Training:    Loss: 0.029   Accuracy: 0.990   
+Validation:  Loss: 0.155   Accuracy: 0.957   
+---
+Epoch 1378 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.157   Accuracy: 0.957   
+---
+Epoch 1379 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.149   Accuracy: 0.960   
+---
+Epoch 1380 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.156   Accuracy: 0.957   
+---
+Epoch 1381 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.160   Accuracy: 0.957   
+---
+Epoch 1382 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.157   Accuracy: 0.959   
+---
+Epoch 1383 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.146   Accuracy: 0.959   
+---
+Epoch 1384 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.151   Accuracy: 0.959   
+---
+Epoch 1385 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.159   Accuracy: 0.958   
+---
+Epoch 1386 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.166   Accuracy: 0.958   
+---
+Epoch 1387 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.161   Accuracy: 0.958   
+---
+Epoch 1388 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.153   Accuracy: 0.959   
+---
+Epoch 1389 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.155   Accuracy: 0.959   
+---
+Epoch 1390 of 1600
+Training:    Loss: 0.019   Accuracy: 0.994   
+Validation:  Loss: 0.164   Accuracy: 0.958   
+---
+Epoch 1391 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1392 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.154   Accuracy: 0.959   
+---
+Epoch 1393 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.162   Accuracy: 0.958   
+---
+Epoch 1394 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.165   Accuracy: 0.958   
+---
+Epoch 1395 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.177   Accuracy: 0.957   
+---
+Epoch 1396 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.159   Accuracy: 0.958   
+---
+Epoch 1397 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.168   Accuracy: 0.958   
+---
+Epoch 1398 of 1600
+Training:    Loss: 0.018   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1399 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.161   Accuracy: 0.958   
+---
+Epoch 1400 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1401 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.956   
+---
+Epoch 1402 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.173   Accuracy: 0.957   
+---
+Epoch 1403 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.159   Accuracy: 0.958   
+---
+Epoch 1404 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.172   Accuracy: 0.957   
+---
+Epoch 1405 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.167   Accuracy: 0.957   
+---
+Epoch 1406 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.170   Accuracy: 0.958   
+---
+Epoch 1407 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1408 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.170   Accuracy: 0.958   
+---
+Epoch 1409 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.156   Accuracy: 0.959   
+---
+Epoch 1410 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.153   Accuracy: 0.960   
+---
+Epoch 1411 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.172   Accuracy: 0.957   
+---
+Epoch 1412 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.189   Accuracy: 0.954   
+---
+Epoch 1413 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.172   Accuracy: 0.956   
+---
+Epoch 1414 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.959   
+---
+Epoch 1415 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.184   Accuracy: 0.957   
+---
+Epoch 1416 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.186   Accuracy: 0.956   
+---
+Epoch 1417 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.150   Accuracy: 0.959   
+---
+Epoch 1418 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.184   Accuracy: 0.957   
+---
+Epoch 1419 of 1600
+Training:    Loss: 0.028   Accuracy: 0.989   
+Validation:  Loss: 0.182   Accuracy: 0.955   
+---
+Epoch 1420 of 1600
+Training:    Loss: 0.023   Accuracy: 0.991   
+Validation:  Loss: 0.169   Accuracy: 0.957   
+---
+Epoch 1421 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.167   Accuracy: 0.957   
+---
+Epoch 1422 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.165   Accuracy: 0.957   
+---
+Epoch 1423 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.158   Accuracy: 0.957   
+---
+Epoch 1424 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.179   Accuracy: 0.955   
+---
+Epoch 1425 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.150   Accuracy: 0.958   
+---
+Epoch 1426 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.209   Accuracy: 0.953   
+---
+Epoch 1427 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.179   Accuracy: 0.956   
+---
+Epoch 1428 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.178   Accuracy: 0.956   
+---
+Epoch 1429 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.193   Accuracy: 0.956   
+---
+Epoch 1430 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.190   Accuracy: 0.956   
+---
+Epoch 1431 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.158   Accuracy: 0.956   
+---
+Epoch 1432 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1433 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.958   
+---
+Epoch 1434 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.168   Accuracy: 0.956   
+---
+Epoch 1435 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1436 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.157   Accuracy: 0.959   
+---
+Epoch 1437 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.158   Accuracy: 0.958   
+---
+Epoch 1438 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.155   Accuracy: 0.959   
+---
+Epoch 1439 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.161   Accuracy: 0.958   
+---
+Epoch 1440 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.958   
+---
+Epoch 1441 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.174   Accuracy: 0.957   
+---
+Epoch 1442 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.184   Accuracy: 0.956   
+---
+Epoch 1443 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1444 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.148   Accuracy: 0.960   
+---
+Epoch 1445 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.154   Accuracy: 0.958   
+---
+Epoch 1446 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.154   Accuracy: 0.958   
+---
+Epoch 1447 of 1600
+Training:    Loss: 0.022   Accuracy: 0.993   
+Validation:  Loss: 0.180   Accuracy: 0.955   
+---
+Epoch 1448 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1449 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1450 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.152   Accuracy: 0.959   
+---
+Epoch 1451 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1452 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1453 of 1600
+Training:    Loss: 0.019   Accuracy: 0.994   
+Validation:  Loss: 0.154   Accuracy: 0.959   
+---
+Epoch 1454 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.161   Accuracy: 0.958   
+---
+Epoch 1455 of 1600
+Training:    Loss: 0.022   Accuracy: 0.993   
+Validation:  Loss: 0.171   Accuracy: 0.957   
+---
+Epoch 1456 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1457 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.165   Accuracy: 0.958   
+---
+Epoch 1458 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.153   Accuracy: 0.959   
+---
+Epoch 1459 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1460 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.179   Accuracy: 0.957   
+---
+Epoch 1461 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.162   Accuracy: 0.959   
+---
+Epoch 1462 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.171   Accuracy: 0.957   
+---
+Epoch 1463 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.176   Accuracy: 0.957   
+---
+Epoch 1464 of 1600
+Training:    Loss: 0.030   Accuracy: 0.989   
+Validation:  Loss: 0.176   Accuracy: 0.952   
+---
+Epoch 1465 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.167   Accuracy: 0.956   
+---
+Epoch 1466 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.162   Accuracy: 0.958   
+---
+Epoch 1467 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.175   Accuracy: 0.958   
+---
+Epoch 1468 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.959   
+---
+Epoch 1469 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.155   Accuracy: 0.959   
+---
+Epoch 1470 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.175   Accuracy: 0.958   
+---
+Epoch 1471 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.185   Accuracy: 0.957   
+---
+Epoch 1472 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.168   Accuracy: 0.958   
+---
+Epoch 1473 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.958   
+---
+Epoch 1474 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.161   Accuracy: 0.959   
+---
+Epoch 1475 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.167   Accuracy: 0.959   
+---
+Epoch 1476 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.169   Accuracy: 0.959   
+---
+Epoch 1477 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.160   Accuracy: 0.959   
+---
+Epoch 1478 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1479 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.164   Accuracy: 0.959   
+---
+Epoch 1480 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.176   Accuracy: 0.958   
+---
+Epoch 1481 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.156   Accuracy: 0.959   
+---
+Epoch 1482 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.167   Accuracy: 0.959   
+---
+Epoch 1483 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.179   Accuracy: 0.957   
+---
+Epoch 1484 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.157   Accuracy: 0.960   
+---
+Epoch 1485 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.172   Accuracy: 0.958   
+---
+Epoch 1486 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.158   Accuracy: 0.959   
+---
+Epoch 1487 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.199   Accuracy: 0.955   
+---
+Epoch 1488 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.168   Accuracy: 0.957   
+---
+Epoch 1489 of 1600
+Training:    Loss: 0.026   Accuracy: 0.991   
+Validation:  Loss: 0.180   Accuracy: 0.957   
+---
+Epoch 1490 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.164   Accuracy: 0.958   
+---
+Epoch 1491 of 1600
+Training:    Loss: 0.018   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1492 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.179   Accuracy: 0.958   
+---
+Epoch 1493 of 1600
+Training:    Loss: 0.025   Accuracy: 0.991   
+Validation:  Loss: 0.143   Accuracy: 0.960   
+---
+Epoch 1494 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1495 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.153   Accuracy: 0.959   
+---
+Epoch 1496 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1497 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.958   
+---
+Epoch 1498 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.168   Accuracy: 0.957   
+---
+Epoch 1499 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.176   Accuracy: 0.955   
+---
+Epoch 1500 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.157   Accuracy: 0.959   
+---
+Epoch 1501 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.157   Accuracy: 0.958   
+---
+Epoch 1502 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1503 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.190   Accuracy: 0.957   
+---
+Epoch 1504 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.176   Accuracy: 0.958   
+---
+Epoch 1505 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.166   Accuracy: 0.958   
+---
+Epoch 1506 of 1600
+Training:    Loss: 0.022   Accuracy: 0.992   
+Validation:  Loss: 0.163   Accuracy: 0.957   
+---
+Epoch 1507 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.169   Accuracy: 0.957   
+---
+Epoch 1508 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1509 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.188   Accuracy: 0.956   
+---
+Epoch 1510 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.176   Accuracy: 0.958   
+---
+Epoch 1511 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.168   Accuracy: 0.958   
+---
+Epoch 1512 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.161   Accuracy: 0.958   
+---
+Epoch 1513 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1514 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1515 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1516 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.172   Accuracy: 0.958   
+---
+Epoch 1517 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1518 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.169   Accuracy: 0.957   
+---
+Epoch 1519 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.178   Accuracy: 0.956   
+---
+Epoch 1520 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.172   Accuracy: 0.958   
+---
+Epoch 1521 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.957   
+---
+Epoch 1522 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.161   Accuracy: 0.956   
+---
+Epoch 1523 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.175   Accuracy: 0.957   
+---
+Epoch 1524 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.187   Accuracy: 0.956   
+---
+Epoch 1525 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.175   Accuracy: 0.957   
+---
+Epoch 1526 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.165   Accuracy: 0.957   
+---
+Epoch 1527 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1528 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.167   Accuracy: 0.958   
+---
+Epoch 1529 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.188   Accuracy: 0.958   
+---
+Epoch 1530 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.173   Accuracy: 0.957   
+---
+Epoch 1531 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1532 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1533 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.164   Accuracy: 0.958   
+---
+Epoch 1534 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.168   Accuracy: 0.957   
+---
+Epoch 1535 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.179   Accuracy: 0.956   
+---
+Epoch 1536 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.176   Accuracy: 0.957   
+---
+Epoch 1537 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.173   Accuracy: 0.958   
+---
+Epoch 1538 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.184   Accuracy: 0.956   
+---
+Epoch 1539 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.179   Accuracy: 0.957   
+---
+Epoch 1540 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.960   
+---
+Epoch 1541 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.178   Accuracy: 0.956   
+---
+Epoch 1542 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.178   Accuracy: 0.957   
+---
+Epoch 1543 of 1600
+Training:    Loss: 0.018   Accuracy: 0.993   
+Validation:  Loss: 0.158   Accuracy: 0.959   
+---
+Epoch 1544 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.178   Accuracy: 0.956   
+---
+Epoch 1545 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.173   Accuracy: 0.957   
+---
+Epoch 1546 of 1600
+Training:    Loss: 0.021   Accuracy: 0.992   
+Validation:  Loss: 0.174   Accuracy: 0.957   
+---
+Epoch 1547 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.170   Accuracy: 0.953   
+---
+Epoch 1548 of 1600
+Training:    Loss: 0.028   Accuracy: 0.990   
+Validation:  Loss: 0.192   Accuracy: 0.954   
+---
+Epoch 1549 of 1600
+Training:    Loss: 0.027   Accuracy: 0.990   
+Validation:  Loss: 0.249   Accuracy: 0.953   
+---
+Epoch 1550 of 1600
+Training:    Loss: 0.032   Accuracy: 0.989   
+Validation:  Loss: 0.184   Accuracy: 0.956   
+---
+Epoch 1551 of 1600
+Training:    Loss: 0.036   Accuracy: 0.987   
+Validation:  Loss: 0.200   Accuracy: 0.946   
+---
+Epoch 1552 of 1600
+Training:    Loss: 0.032   Accuracy: 0.988   
+Validation:  Loss: 0.178   Accuracy: 0.954   
+---
+Epoch 1553 of 1600
+Training:    Loss: 0.033   Accuracy: 0.988   
+Validation:  Loss: 0.182   Accuracy: 0.955   
+---
+Epoch 1554 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.153   Accuracy: 0.958   
+---
+Epoch 1555 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.152   Accuracy: 0.959   
+---
+Epoch 1556 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.157   Accuracy: 0.960   
+---
+Epoch 1557 of 1600
+Training:    Loss: 0.024   Accuracy: 0.991   
+Validation:  Loss: 0.166   Accuracy: 0.958   
+---
+Epoch 1558 of 1600
+Training:    Loss: 0.021   Accuracy: 0.993   
+Validation:  Loss: 0.164   Accuracy: 0.958   
+---
+Epoch 1559 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.158   Accuracy: 0.959   
+---
+Epoch 1560 of 1600
+Training:    Loss: 0.018   Accuracy: 0.993   
+Validation:  Loss: 0.148   Accuracy: 0.960   
+---
+Epoch 1561 of 1600
+Training:    Loss: 0.014   Accuracy: 0.995   
+Validation:  Loss: 0.153   Accuracy: 0.960   
+---
+Epoch 1562 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.160   Accuracy: 0.959   
+---
+Epoch 1563 of 1600
+Training:    Loss: 0.018   Accuracy: 0.993   
+Validation:  Loss: 0.157   Accuracy: 0.959   
+---
+Epoch 1564 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.169   Accuracy: 0.958   
+---
+Epoch 1565 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.175   Accuracy: 0.957   
+---
+Epoch 1566 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.959   
+---
+Epoch 1567 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.159   Accuracy: 0.959   
+---
+Epoch 1568 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.178   Accuracy: 0.957   
+---
+Epoch 1569 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1570 of 1600
+Training:    Loss: 0.014   Accuracy: 0.995   
+Validation:  Loss: 0.160   Accuracy: 0.959   
+---
+Epoch 1571 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.162   Accuracy: 0.958   
+---
+Epoch 1572 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.171   Accuracy: 0.957   
+---
+Epoch 1573 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.160   Accuracy: 0.958   
+---
+Epoch 1574 of 1600
+Training:    Loss: 0.016   Accuracy: 0.995   
+Validation:  Loss: 0.165   Accuracy: 0.959   
+---
+Epoch 1575 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.168   Accuracy: 0.959   
+---
+Epoch 1576 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1577 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.170   Accuracy: 0.957   
+---
+Epoch 1578 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.167   Accuracy: 0.959   
+---
+Epoch 1579 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.175   Accuracy: 0.958   
+---
+Epoch 1580 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.177   Accuracy: 0.957   
+---
+Epoch 1581 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.165   Accuracy: 0.958   
+---
+Epoch 1582 of 1600
+Training:    Loss: 0.018   Accuracy: 0.993   
+Validation:  Loss: 0.163   Accuracy: 0.958   
+---
+Epoch 1583 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.166   Accuracy: 0.959   
+---
+Epoch 1584 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.165   Accuracy: 0.959   
+---
+Epoch 1585 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.174   Accuracy: 0.958   
+---
+Epoch 1586 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.159   Accuracy: 0.959   
+---
+Epoch 1587 of 1600
+Training:    Loss: 0.015   Accuracy: 0.995   
+Validation:  Loss: 0.157   Accuracy: 0.960   
+---
+Epoch 1588 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.190   Accuracy: 0.956   
+---
+Epoch 1589 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.171   Accuracy: 0.959   
+---
+Epoch 1590 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.158   Accuracy: 0.960   
+---
+Epoch 1591 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.159   Accuracy: 0.961   
+---
+Epoch 1592 of 1600
+Training:    Loss: 0.016   Accuracy: 0.994   
+Validation:  Loss: 0.159   Accuracy: 0.960   
+---
+Epoch 1593 of 1600
+Training:    Loss: 0.019   Accuracy: 0.993   
+Validation:  Loss: 0.161   Accuracy: 0.960   
+---
+Epoch 1594 of 1600
+Training:    Loss: 0.017   Accuracy: 0.994   
+Validation:  Loss: 0.158   Accuracy: 0.959   
+---
+Epoch 1595 of 1600
+Training:    Loss: 0.014   Accuracy: 0.995   
+Validation:  Loss: 0.167   Accuracy: 0.959   
+---
+Epoch 1596 of 1600
+Training:    Loss: 0.018   Accuracy: 0.994   
+Validation:  Loss: 0.173   Accuracy: 0.959   
+---
+Epoch 1597 of 1600
+Training:    Loss: 0.020   Accuracy: 0.993   
+Validation:  Loss: 0.178   Accuracy: 0.958   
+---
+Epoch 1598 of 1600
+Training:    Loss: 0.023   Accuracy: 0.992   
+Validation:  Loss: 0.170   Accuracy: 0.956   
+---
+Epoch 1599 of 1600
+Training:    Loss: 0.026   Accuracy: 0.990   
+Validation:  Loss: 0.167   Accuracy: 0.957   
+---
+Epoch 1600 of 1600
+Training:    Loss: 0.024   Accuracy: 0.992   
+Validation:  Loss: 0.161   Accuracy: 0.958   
+---
+Finished training of ConfNet_1600_noF
