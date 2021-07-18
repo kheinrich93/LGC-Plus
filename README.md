@@ -7,7 +7,7 @@ Proposed by [Konstantin Heinrich](http://www.linkedin.com/in/konstantin-heinrich
 Our paper can be found in the [ISPRS archives XLIII](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2021/91/2021/). Please refer to our paper, when using the code.
 
 ## Qualitative Results
-![Alt text](https://github.com/kheinrich93/LGC-Plus/main/gh_images/result_confidencemaps.jpg "output")
+![Alt text](https://github.com/kheinrich93/LGC-Plus/blob/main/gh_images/result_confidencemaps.jpg "output")
 
 Example of confidence estimation on the [KITTI-15 dataset](https://openaccess.thecvf.com/content_cvpr_2015/papers/Menze_Object_Scene_Flow_2015_CVPR_paper.pdf). A pixel is coloured in green if either the assigned disparity is correct and the confidence c >= 0.5 or if the disparity assignment is incorrect and c < 0.5. All remaining pixels with available ground truth disparity are coloured in red, indicating an erroneous confidence prediction.
 
