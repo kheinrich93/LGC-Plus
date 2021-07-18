@@ -6,29 +6,45 @@ Proposed by [Konstantin Heinrich](http://www.linkedin.com/in/konstantin-heinrich
 
 Our paper can be found in the [ISPRS archives XLIII](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2021/91/2021/). Please refer to our paper, when using the code.
 
+## Qualitative Results
+![Alt text](https://github.com/kheinrich93/LGC-Plus/main/gh_images/result_confidencemaps.jpg "output")
+
+Example of confidence estimation on the [KITTI-15 dataset](https://openaccess.thecvf.com/content_cvpr_2015/papers/Menze_Object_Scene_Flow_2015_CVPR_paper.pdf). A pixel is coloured in green if either the assigned disparity is correct and the confidence c >= 0.5 or if the disparity assignment is incorrect and c < 0.5. All remaining pixels with available ground truth disparity are coloured in red, indicating an erroneous confidence prediction.
+
 ## Prerequisites
-This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [cluster system](https://www.luis.uni-hannover.de/en/services/computing/scientific-computing/technical-specifications-of-clusters/) at the Leibniz University of Hannover, Germany, under CentOs 7.6. For debugging purposes, an Nvidia Geforce 1060 gtx on Windows 10 was used. 
+This code was tested with Python 3.7.7, Tensorflow 2.2.0, CUDA 10.1 on the [cluster system](https://www.luis.uni-hannover.de/en/services/computing/scientific-computing/technical-specifications-of-clusters/) at the Leibniz University of Hannover, Germany, under CentOs 7.6. For local debugging, an Nvidia Geforce 1060 gtx on Windows 10 was used. 
 
 The following data hierarchy is used:
 
 ```
 LGC-Plus
-├── model
+├── src
 ├── results
 │   ├── Training
+│   │   ├── 'network'
+│   │   │   ├── models
+│   │   │   │   ├── weights.h5
 │   ├── Testing
+│   │   ├── Confmap_'network'
+│   │   │   ├── 'imagetitle'
+│   │   │   │   ├── Confmap_'network'.png
+│   │   │   │   ├── Confmap_'network'.pfm
 ├── data
-│   ├── dataset
+│   ├── *dataset*
+|   |   ├──  disp_gt
 |   |   ├──  images
 |   |   |   ├──  left
 |   |   |   ├──  right
-|   |   ├──  disp_gt
-|   |   ├──  cost_volume
-|   |   ├──  est_disp
+|   |   ├──  cv_*StereoMatchingAlgo*
+|   |   ├──  est_*StereoMatchingAlgo*
+
+
+** -> change foldername accordingly
+'' -> change hyperparam accordingly
 ```
 
 ## Training
-Several arguments for training and testing are available.
+Several arguments for training and testing are available. Hyperparameters are listed in our paper. Weights trained on the KITTI-12 dataset are given in the repo.
 
 The _--module_name_ argument depicts the architecture:
   * [CVA](https://www.sciencedirect.com/science/article/abs/pii/S0924271620303026)
